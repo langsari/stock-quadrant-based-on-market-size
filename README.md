@@ -100,7 +100,5 @@ A stock quadrant model for classifying equities by **market capitalization** and
 
 ---
 
-## 📌 Author
-Project by: *[Your Name]*  
-Data Science Student | Financial Data Enthusiast  
+
 
