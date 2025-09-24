@@ -28,7 +28,7 @@ import os
 # -----------------------------
 
 def load_data(path: str) -> pd.DataFrame:
-    df = pd.read_csv(r"D:\Document\DSA\DSA 3\DSA3_1-2568\Data Mining\stock_financials.csv")
+    df = pd.read_csv(r"D:\Document\DSA\DSA 3\DSA3_1-2568\Data Mining\stock-quadrant-based-on-market-size\stock_financials.csv")
 
     return df
 
