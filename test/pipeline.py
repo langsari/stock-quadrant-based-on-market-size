@@ -13,6 +13,10 @@ SET Stock Classification Pipeline (ปรับปรุง)
 ผลลัพธ์นี้จะถูกนำไปจัดอันดับเพื่อแบ่งเป็น 4 กลุ่ม: Large / Mid / Small / Micro
 """
 
+# Before running this script, install plotly with:
+# python3.13 -m pip install plotly
+
+
 from typing import Optional, Tuple
 import pandas as pd
 import numpy as np
@@ -24,7 +28,8 @@ import os
 # -----------------------------
 
 def load_data(path: str) -> pd.DataFrame:
-    df = pd.read_csv("D:\Document\DSA\DSA 3\DSA3_1-2568\Data Mining\stock_financials.csv")
+    df = pd.read_csv(r"D:\Document\DSA\DSA 3\DSA3_1-2568\Data Mining\stock_financials.csv")
+
     return df
 
 # -----------------------------
