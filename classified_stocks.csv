@@ -1,0 +1,921 @@
+symbol,instrument_type,security_type,market_status,total_volume,aum_size,average,change,eps,exchange,exercise_price,exercise_ratio,high,implied_volatility,inav,intrinsic_value,last,last_trading_date,low,maturity_date,moneyness,pbv,pe,percent_change,percent_yield,theoretical,to_last_trade,underlying,underlying_price,updated_at,shares_outstanding,eps_x_mcap,ftse_size,lynch_style
+24CS,STOCK,CS,Open1,0,,,,-1.02188,,,,,,,,,,,,,2.73,0.0,,0.0,,,,,26:21.7,,,Large,Cyclicals
+2S,STOCK,CS,Open1,0,,,,0.04221,,,,,,,,,,,,,0.63,51.32,,5.0,,,,,26:23.9,,,Large,Cyclicals
+3BBIF,STOCK,CS,Open1,0,,,,,,,,,,,,,,,,,0.66,,,0.0,,,,,26:26.0,,,Large,Asset Plays
+A,STOCK,CS,Open1,0,,,,-0.45,,,,,,,,,,,,,1.95,0.0,,0.0,,,,,26:28.2,,,Large,Cyclicals
+A5,STOCK,CS,Open1,0,,,,0.37987,,,,,,,,,,,,,1.71,6.39,,4.070000172,,,,,26:30.5,,,Large,Cyclicals
+AAI,STOCK,CS,Open1,0,,,,0.47219,,,,,,,,,,,,,2.2,11.22,,8.460000038,,,,,26:32.7,,,Large,Cyclicals
+AAV,STOCK,CS,Open1,1300,,2.14,0.1,0.27066,,,,2.16,,,,2.12,,2.12,,,2.2,7.2,4.95,0.0,,,,,26:34.9,,,Large,Cyclicals
+ABM,STOCK,CS,Open1,0,,,,-0.09,,,,,,,,,,,,,0.74,0.0,,0.0,,,,,26:37.0,,,Large,Asset Plays
+ACAP,STOCK,CS,Suspend,0,,,,0.65245,,,,,,,,,,,,,,,,,,,,,26:39.2,,,Large,Cyclicals
+ACC,STOCK,CS,Open1,0,,,,-0.06114,,,,,,,,,,,,,0.84,0.0,,0.0,,,,,26:41.4,,,Large,Cyclicals
+ACE,STOCK,CS,Open1,0,,,,0.08,,,,,,,,,,,,,0.8,15.38,,0.0,,,,,26:43.6,,,Large,Cyclicals
+ACG,STOCK,CS,Open1,0,,,,0.03986,,,,,,,,,,,,,0.67,20.07,,3.329999924,,,,,26:45.8,,,Large,Cyclicals
+ADB,STOCK,CS,Open1,0,,,,0.048,,,,,,,,,,,,,0.73,13.58,,3.130000114,,,,,26:48.0,,,Large,Cyclicals
+ADD,STOCK,CS,Open1,0,,,,0.1236,,,,,,,,,,,,,1.21,30.42,,9.569999695,,,,,26:50.2,,,Large,Cyclicals
+ADVANC,STOCK,CS,Open1,100,,286.0,16.0,11.79,,,,286.0,,,,286.0,,286.0,,,8.11,22.47,5.93,4.0,,,,,26:52.4,,,Large,Cyclicals
+ADVICE,STOCK,CS,Open1,0,,,,0.38208,,,,,,,,,,,,,3.46,14.0,,6.190000057,,,,,26:54.5,,,Large,Cyclicals
+AE,STOCK,CS,Open1,0,,,,-0.031,,,,,,,,,,,,,0.23,0.0,,0.0,,,,,26:56.7,,,Large,Asset Plays
+AEONTS,STOCK,CS,Open1,0,,,,8.5395,,,,,,,,,,,,,1.01,8.01,,5.309999943,,,,,26:58.9,,,Large,Cyclicals
+AF,STOCK,CS,Open1,0,,,,0.01046,,,,,,,,,,,,,1.3,40.14,,4.760000229,,,,,27:01.1,,,Large,Cyclicals
+AFC,STOCK,CS,Open1,0,,,,-0.49,,,,,,,,,,,,,0.15,51.4,,0.0,,,,,27:03.3,,,Large,Cyclicals
+AGE,STOCK,CS,Open1,0,,,,-0.18956,,,,,,,,,,,,,0.41,0.0,,0.0,,,,,27:05.5,,,Large,Asset Plays
+AH,STOCK,CS,Open1,0,,,,2.15,,,,,,,,,,,,,0.4,5.62,,6.320000172,,,,,27:07.8,,,Large,Asset Plays
+AHC,STOCK,CS,Open1,0,,,,0.85,,,,,,,,,,,,,0.99,16.29,,3.119999886,,,,,27:10.0,,,Large,Cyclicals
+AI,STOCK,CS,Open1,0,,,,0.55027,,,,,,,,,,,,,1.01,6.36,,9.710000038,,,,,27:12.2,,,Large,Cyclicals
+AIE,STOCK,CS,Open1,0,,,,0.175,,,,,,,,,,,,,0.85,8.24,,17.36000061,,,,,27:14.5,,,Large,Cyclicals
+AIMCG,STOCK,CS,Open1,0,,,,,,,,,,,,,,,,,0.25,,,19.38999939,,,,,27:16.7,,,Large,Asset Plays
+AIMIRT,STOCK,CS,Open1,0,,,,,,,,,,,,,,,,,0.85,,,7.510000229,,,,,27:18.9,,,Large,Cyclicals
+AIRA,STOCK,CS,Open1,0,,,,-0.02158,,,,,,,,,,,,,1.94,0.0,,0.0,,,,,27:21.1,,,Large,Cyclicals
+AIT,STOCK,CS,Open1,0,,,,0.37218,,,,,,,,,,,,,1.6,11.97,,12.32999992,,,,,27:23.3,,,Large,Cyclicals
+AJ,STOCK,CS,Open1,0,,,,-1.38,,,,,,,,,,,,,0.3,0.0,,0.0,,,,,27:25.6,,,Large,Asset Plays
+AJA,STOCK,CS,Open1,0,,,,-0.01781,,,,,,,,,,,,,0.89,0.0,,0.0,,,,,27:27.8,,,Large,Cyclicals
+AKP,STOCK,CS,Open1,0,,,,0.08998,,,,,,,,,,,,,0.44,7.78,,5.289999962,,,,,27:30.0,,,Large,Asset Plays
+AKR,STOCK,CS,Open1,0,,,,0.19,,,,,,,,,,,,,0.89,5.36,,9.800000191,,,,,27:32.2,,,Large,Cyclicals
+AKS,STOCK,CS,Open1,0,,,,-0.02838,,,,,,,,,,,,,8.69,0.0,,0.0,,,,,27:34.4,,,Large,Cyclicals
+ALLA,STOCK,CS,Open1,0,,,,0.16838,,,,,,,,,,,,,0.84,7.96,,8.210000038,,,,,27:36.6,,,Large,Cyclicals
+ALLY,STOCK,CS,Open1,0,,,,,,,,,,,,,,,,,0.48,,,11.35999966,,,,,27:38.8,,,Large,Asset Plays
+ALPHAX,STOCK,CS,Open1,0,,,,0.03563,,,,,,,,,,,,,0.72,12.35,,0.0,,,,,27:41.0,,,Large,Cyclicals
+ALT,STOCK,CS,Open1,0,,,,0.00719,,,,,,,,,,,,,0.56,111.24,,0.0,,,,,27:43.2,,,Large,Cyclicals
+ALUCON,STOCK,CS,Open1,0,,,,18.08,,,,,,,,,,,,,1.1,9.87,,6.71999979,,,,,27:45.4,,,Large,Cyclicals
+AMA,STOCK,CS,Open1,0,,,,0.65174,,,,,,,,,,,,,0.7,6.17,,11.18999958,,,,,27:47.6,,,Large,Asset Plays
+AMANAH,STOCK,CS,Open1,0,,,,-0.01386,,,,,,,,,,,,,0.54,0.0,,0.0,,,,,27:49.8,,,Large,Asset Plays
+AMARC,STOCK,CS,Open1,0,,,,0.09,,,,,,,,,,,,,0.93,12.11,,5.21999979,,,,,27:51.9,,,Large,Cyclicals
+AMARIN,STOCK,CS,Open1,0,,,,0.08465,,,,,,,,,,,,,0.52,31.39,,2.5,,,,,27:54.1,,,Large,Cyclicals
+AMATA,STOCK,CS,Open1,0,,,,2.15904,,,,,,,,,,,,,1.15,10.19,,3.640000105,,,,,27:56.3,,,Large,Cyclicals
+AMATAR,STOCK,CS,Open1,0,,,,,,,,,,,,,,,,,0.63,,,9.279999733,,,,,27:58.5,,,Large,Asset Plays
+AMATAV,STOCK,CS,Open1,0,,,,0.09388,,,,,,,,,,,,,0.77,40.48,,1.320000052,,,,,28:00.7,,,Large,Cyclicals
+AMC,STOCK,CS,Open1,0,,,,0.15,,,,,,,,,,,,,0.28,13.15,,5.130000114,,,,,28:02.9,,,Large,Cyclicals
+AMR,STOCK,CS,Open1,0,,,,-0.19,,,,,,,,,,,,,0.4,0.0,,0.0,,,,,28:05.1,,,Large,Asset Plays
+ANAN,STOCK,CS,Open1,0,,,,0.013,,,,,,,,,,,,,0.23,7.6,,0.0,,,,,28:07.3,,,Large,Asset Plays
+ANI,STOCK,CS,Open1,0,,,,0.3595,,,,,,,,,,,,,0.66,7.79,,7.139999866,,,,,28:09.5,,,Large,Asset Plays
+AOT,STOCK,CS,Open1,100,,52.0,11.25,0.37,,,,52.0,,,,52.0,,52.0,,,4.39,28.44,27.61,1.99000001,,,,,28:11.7,,,Large,Cyclicals
+AP,STOCK,CS,Open1,0,,,,1.59576,,,,,,,,,,,,,0.63,5.51,,6.820000172,,,,,28:13.9,,,Large,Asset Plays
+APCO,STOCK,CS,Open1,0,,,,0.09118,,,,,,,,,,,,,3.66,37.29,,2.710000038,,,,,28:16.2,,,Large,Cyclicals
+APCS,STOCK,CS,Open1,0,,,,-0.08727,,,,,,,,,,,,,0.54,0.0,,0.0,,,,,28:18.7,,,Large,Asset Plays
+APO,STOCK,CS,Open1,0,,,,0.33833,,,,,,,,,,,,,1.43,5.14,,11.72999954,,,,,28:20.9,,,Large,Cyclicals
+APP,STOCK,CS,Open1,0,,,,0.23883,,,,,,,,,,,,,1.34,7.66,,8.199999809,,,,,28:23.1,,,Large,Cyclicals
+APURE,STOCK,CS,Open1,0,,,,0.29,,,,,,,,,,,,,1.33,12.4,,6.110000134,,,,,28:25.4,,,Large,Cyclicals
+AQUA,STOCK,CS,Open1,0,,,,-0.173,,,,,,,,,,,,,0.27,0.0,,0.0,,,,,28:27.7,,,Large,Asset Plays
+ARIN,STOCK,CS,Open1,0,,,,-0.0478,,,,,,,,,,,,,0.95,0.0,,0.0,,,,,28:29.9,,,Large,Cyclicals
+ARIP,STOCK,CS,Open1,0,,,,0.01782,,,,,,,,,,,,,0.86,23.57,,4.019999981,,,,,28:32.1,,,Large,Cyclicals
+ARROW,STOCK,CS,Open1,0,,,,0.44,,,,,,,,,,,,,1.05,12.03,,6.670000076,,,,,28:34.3,,,Large,Cyclicals
+AS,STOCK,CS,Open1,0,,,,0.38,,,,,,,,,,,,,1.03,6.91,,0.0,,,,,28:36.4,,,Large,Cyclicals
+ASAP,STOCK,CS,Open1,0,,,,-0.03915,,,,,,,,,,,,,1.22,0.0,,0.0,,,,,28:38.6,,,Large,Cyclicals
+ASEFA,STOCK,CS,Open1,0,,,,0.13,,,,,,,,,,,,,0.82,22.13,,4.760000229,,,,,28:40.8,,,Large,Cyclicals
+ASIA,STOCK,CS,Open1,0,,,,-0.00682,,,,,,,,,,,,,0.28,0.0,,5.150000095,,,,,28:43.0,,,Large,Asset Plays
+ASIAN,STOCK,CS,Open1,0,,,,1.04214,,,,,,,,,,,,,1.0,7.68,,12.38000011,,,,,28:45.2,,,Large,Cyclicals
+ASIMAR,STOCK,CS,Open1,0,,,,0.197,,,,,,,,,,,,,0.88,7.92,,7.690000057,,,,,28:47.3,,,Large,Cyclicals
+ASK,STOCK,CS,Open1,0,,,,0.62859,,,,,,,,,,,,,0.36,11.22,,4.539999962,,,,,28:49.6,,,Large,Cyclicals
+ASN,STOCK,CS,Open1,0,,,,-0.01253,,,,,,,,,,,,,0.74,0.0,,0.0,,,,,28:51.8,,,Large,Asset Plays
+ASP,STOCK,CS,Open1,0,,,,0.17,,,,,,,,,,,,,0.94,12.88,,6.880000114,,,,,28:54.0,,,Large,Cyclicals
+ASW,STOCK,CS,Open1,0,,,,1.62,,,,,,,,,,,,,0.77,4.14,,0.0,,,,,28:56.2,,,Large,Asset Plays
+ATP30,STOCK,CS,Open1,0,,,,0.06673,,,,,,,,,,,,,1.11,13.34,,3.369999886,,,,,28:58.4,,,Large,Cyclicals
+AU,STOCK,CS,Open1,0,,,,0.36316,,,,,,,,,,,,,6.7,25.06,,3.630000114,,,,,29:00.6,,,Large,Cyclicals
+AUCT,STOCK,CS,Open1,0,,,,0.67508,,,,,,,,,,,,,7.3,11.11,,8.930000305,,,,,29:02.8,,,Large,Cyclicals
+AURA,STOCK,CS,Open1,0,,,,0.85069,,,,,,,,,,,,,3.42,19.28,,2.559999943,,,,,29:05.0,,,Large,Cyclicals
+AWC,STOCK,CS,Open1,0,,,,0.1828,,,,,,,,,,,,,1.02,15.98,,2.569999933,,,,,29:07.2,,,Large,Cyclicals
+AXTRART,STOCK,CS,Open1,0,,,,,,,,,,,,,,,,,0.96,,,0.0,,,,,29:09.4,,,Large,Cyclicals
+AYUD,STOCK,CS,Open1,0,,,,1.83614,,,,,,,,,,,,,0.87,17.43,,8.029999733,,,,,29:11.6,,,Large,Cyclicals
+B,STOCK,CS,Open1,0,,,,-0.005,,,,,,,,,,,,,0.14,0.0,,0.0,,,,,29:13.8,,,Large,Asset Plays
+B-WORK,STOCK,CS,Open1,0,,,,,,,,,,,,,,,,,0.5,,,14.64000034,,,,,31:34.4,,,Large,Asset Plays
+B52,STOCK,CS,Open1,0,,,,-0.12672,,,,,,,,,,,,,1.43,0.0,,0.0,,,,,29:16.0,,,Large,Cyclicals
+BA,STOCK,CS,Open1,1100,,22.0,0.6,1.8,,,,22.0,,,,22.0,,22.0,,,2.72,11.42,2.8,6.309999943,,,,,29:18.2,,,Large,Cyclicals
+BAFS,STOCK,CS,Open1,0,,,,0.08,,,,,,,,,,,,,0.96,50.2,,3.700000048,,,,,29:20.6,,,Large,Cyclicals
+BAM,STOCK,CS,Open1,0,,,,0.5,,,,,,,,,,,,,0.46,12.71,,5.559999943,,,,,29:22.8,,,Large,Cyclicals
+BANPU,STOCK,CS,Open1,0,,,,-0.06811,,,,,,,,,,,,,0.38,0.0,,7.010000229,,,,,29:25.0,,,Large,Asset Plays
+BAREIT,STOCK,CS,Open1,0,,,,,,,,,,,,,,,,,0.94,,,7.909999847,,,,,29:27.2,,,Large,Cyclicals
+BAY,STOCK,CS,Open1,0,,,,4.03762,,,,,,,,,,,,,0.42,5.55,,3.789999962,,,,,29:29.4,,,Large,Asset Plays
+BBGI,STOCK,CS,Open1,0,,,,0.15,,,,,,,,,,,,,0.58,25.14,,2.670000076,,,,,29:31.6,,,Large,Cyclicals
+BBIK,STOCK,CS,Open1,0,,,,1.50541,,,,,,,,,,,,,3.16,20.76,,0.699999988,,,,,29:33.8,,,Large,Cyclicals
+BBL,STOCK,CS,Pre-Open,2600,,147.67308,-1.0,23.6851,,,,150.0,,,,146.5,,146.0,,,0.5,6.19,-0.68,5.800000191,,,,,29:35.9,,,Large,Asset Plays
+BC,STOCK,CS,Open1,0,,,,0.0563,,,,,,,,,,,,,0.89,18.68,,4.949999809,,,,,29:38.1,,,Large,Cyclicals
+BCH,STOCK,CS,Open1,0,,,,0.51423,,,,,,,,,,,,,3.06,30.92,,2.519999981,,,,,29:40.3,,,Large,Cyclicals
+BCP,STOCK,CS,Open1,0,,,,1.3,,,,,,,,,,,,,0.83,22.7,,2.920000076,,,,,29:42.5,,,Large,Cyclicals
+BCPG,STOCK,CS,Open1,0,,,,0.60732,,,,,,,,,,,,,0.56,9.47,,4.869999886,,,,,29:44.7,,,Large,Asset Plays
+BCT,STOCK,CS,Open1,0,,,,5.62928,,,,,,,,,,,,,0.62,5.71,,2.069999933,,,,,29:46.9,,,Large,Asset Plays
+BDMS,STOCK,CS,Open1,0,,,,1.00598,,,,,,,,,,,,,3.77,23.56,,3.160000086,,,,,29:49.1,,,Large,Cyclicals
+BE8,STOCK,CS,Open1,5000,,12.0,-0.2,0.58,,,,12.0,,,,12.0,,12.0,,,1.08,20.05,-1.64,2.049999952,,,,,29:51.4,,,Large,Cyclicals
+BEAUTY,STOCK,CS,Open1,0,,,,-0.03868,,,,,,,,,,,,,1.37,0.0,,0.0,,,,,29:53.6,,,Large,Cyclicals
+BEC,STOCK,CS,Open1,0,,,,0.05,,,,,,,,,,,,,1.25,78.93,,2.109999895,,,,,29:55.8,,,Large,Cyclicals
+BEM,STOCK,CS,Open1,0,,,,0.25,,,,,,,,,,,,,2.25,21.86,,2.730000019,,,,,29:58.0,,,Large,Cyclicals
+BEYOND,STOCK,CS,Open1,0,,,,-0.1277,,,,,,,,,,,,,0.32,0.0,,0.0,,,,,30:00.2,,,Large,Asset Plays
+BGC,STOCK,CS,Open1,0,,,,0.37261,,,,,,,,,,,,,0.82,15.3,,3.769999981,,,,,30:02.4,,,Large,Cyclicals
+BGRIM,STOCK,CS,Open1,0,,,,0.26,,,,,,,,,,,,,0.86,19.93,,3.609999895,,,,,30:07.6,,,Large,Cyclicals
+BGT,STOCK,CS,Open1,0,,,,-0.02383,,,,,,,,,,,,,0.5,0.0,,0.0,,,,,30:09.8,,,Large,Asset Plays
+BH,STOCK,CS,Open1,0,,,,9.78093,,,,,,,,,,,,,5.05,17.86,,2.869999886,,,,,30:11.9,,,Large,Cyclicals
+BIG,STOCK,CS,Open1,0,,,,0.02995,,,,,,,,,,,,,0.63,10.68,,4.690000057,,,,,30:14.1,,,Large,Cyclicals
+BIOTEC,STOCK,CS,Open1,0,,,,-0.0271,,,,,,,,,,,,,0.5,0.0,,0.0,,,,,30:16.3,,,Large,Asset Plays
+BIS,STOCK,CS,Open1,0,,,,0.207,,,,,,,,,,,,,1.01,12.46,,5.429999828,,,,,30:18.5,,,Large,Cyclicals
+BIZ,STOCK,CS,Open1,0,,,,0.37464,,,,,,,,,,,,,2.23,8.74,,10.73999977,,,,,30:20.7,,,Large,Cyclicals
+BJC,STOCK,CS,Open1,0,,,,1.0,,,,,,,,,,,,,0.69,20.83,,3.410000086,,,,,30:22.9,,,Large,Cyclicals
+BJCHI,STOCK,CS,Open1,0,,,,-0.01758,,,,,,,,,,,,,0.36,0.0,,0.0,,,,,30:25.1,,,Large,Asset Plays
+BKD,STOCK,CS,Open1,0,,,,0.15395,,,,,,,,,,,,,0.85,8.05,,8.06000042,,,,,30:27.4,,,Large,Cyclicals
+BKGI,STOCK,CS,Open1,0,,,,0.09,,,,,,,,,,,,,2.19,23.44,,2.549999952,,,,,30:29.7,,,Large,Cyclicals
+BKIH,STOCK,CS,Open1,0,,,,28.60917,,,,,,,,,,,,,0.93,9.93,,5.920000076,,,,,30:31.8,,,Large,Cyclicals
+BLA,STOCK,CS,Open1,0,,,,2.12,,,,,,,,,,,,,0.7,9.28,,3.450000048,,,,,30:34.0,,,Large,Asset Plays
+BLAND,STOCK,CS,Open1,0,,,,0.01019,,,,,,,,,,,,,0.17,7.04,,2.170000076,,,,,30:36.2,,,Large,Asset Plays
+BLC,STOCK,CS,Open1,0,,,,0.29,,,,,,,,,,,,,1.5,14.57,,3.609999895,,,,,30:38.4,,,Large,Cyclicals
+BLESS,STOCK,CS,Open1,0,,,,0.01002,,,,,,,,,,,,,0.16,22.95,,0.0,,,,,30:40.6,,,Large,Cyclicals
+BLISS,STOCK,CS,Suspend,0,,,,-0.00287,,,,,,,,,,,,,,,,,,,,,30:42.8,,,Large,Cyclicals
+BM,STOCK,CS,Open1,0,,,,0.13759,,,,,,,,,,,,,2.01,21.62,,3.690000057,,,,,30:45.0,,,Large,Cyclicals
+BOFFICE,STOCK,CS,Open1,0,,,,,,,,,,,,,,,,,0.5,,,11.64999962,,,,,30:47.2,,,Large,Asset Plays
+BOL,STOCK,CS,Open1,0,,,,0.33606,,,,,,,,,,,,,4.02,15.18,,6.079999924,,,,,30:49.3,,,Large,Cyclicals
+BPP,STOCK,CS,Open1,0,,,,0.57299,,,,,,,,,,,,,0.42,12.04,,8.699999809,,,,,30:51.6,,,Large,Cyclicals
+BPS,STOCK,CS,Open1,0,,,,0.02049,,,,,,,,,,,,,0.7,26.37,,2.5,,,,,30:54.9,,,Large,Cyclicals
+BR,STOCK,CS,Open1,0,,,,0.13,,,,,,,,,,,,,0.32,12.33,,0.0,,,,,30:57.1,,,Large,Cyclicals
+BRI,STOCK,CS,Open1,0,,,,0.50009,,,,,,,,,,,,,0.32,3.98,,1.50999999,,,,,30:59.3,,,Large,Asset Plays
+BROCK,STOCK,CS,Open1,0,,,,-0.01538,,,,,,,,,,,,,1.25,0.0,,0.0,,,,,31:01.5,,,Large,Cyclicals
+BRR,STOCK,CS,Open1,0,,,,1.27333,,,,,,,,,,,,,0.94,3.52,,11.15999985,,,,,31:03.7,,,Large,Cyclicals
+BRRGIF,STOCK,CS,Open1,0,,,,,,,,,,,,,,,,,0.6,,,8.449999809,,,,,31:05.9,,,Large,Asset Plays
+BSBM,STOCK,CS,Open1,0,,,,-0.13001,,,,,,,,,,,,,0.47,0.0,,0.0,,,,,31:08.0,,,Large,Asset Plays
+BSM,STOCK,CS,Open1,0,,,,-0.369,,,,,,,,,,,,,0.9,0.0,,0.0,,,,,31:10.2,,,Large,Cyclicals
+BSRC,STOCK,CS,Open1,0,,,,-0.49,,,,,,,,,,,,,0.71,0.0,,1.549999952,,,,,31:12.4,,,Large,Asset Plays
+BTC,STOCK,CS,Open1,0,,,,0.017,,,,,,,,,,,,,1.16,24.91,,5.769999981,,,,,31:14.6,,,Large,Cyclicals
+BTG,STOCK,CS,Open1,0,,,,1.27463,,,,,,,,,,,,,1.41,15.53,,2.529999971,,,,,31:16.8,,,Large,Cyclicals
+BTNC,STOCK,CS,Open1,0,,,,0.69122,,,,,,,,,,,,,0.35,20.83,,1.389999986,,,,,31:19.0,,,Large,Cyclicals
+BTS,STOCK,CS,Open1,0,,,,0.16,,,,,,,,,,,,,1.53,40.6,,0.0,,,,,31:21.2,,,Large,Cyclicals
+BTSGIF,STOCK,CS,Open1,0,,,,,,,,,,,,,,,,,0.58,,,0.0,,,,,31:23.4,,,Large,Asset Plays
+BTW,STOCK,CS,Open1,0,,,,-0.05179,,,,,,,,,,,,,0.62,0.0,,0.0,,,,,31:25.6,,,Large,Asset Plays
+BUI,STOCK,CS,Open1,0,,,,4.08,,,,,,,,,,,,,0.69,4.46,,15.38000011,,,,,31:27.7,,,Large,Asset Plays
+BVG,STOCK,CS,Open1,0,,,,0.11584,,,,,,,,,,,,,1.1,15.8,,4.639999866,,,,,31:30.0,,,Large,Cyclicals
+BWG,STOCK,CS,Open1,0,,,,0.01693,,,,,,,,,,,,,0.39,17.92,,0.0,,,,,31:32.2,,,Large,Cyclicals
+BYD,STOCK,CS,Open1,0,,,,-0.891,,,,,,,,,,,,,0.33,0.0,,0.0,,,,,31:36.6,,,Large,Asset Plays
+CAZ,STOCK,CS,Open1,0,,,,-0.7881,,,,,,,,,,,,,0.73,0.0,,0.0,,,,,31:38.7,,,Large,Asset Plays
+CBG,STOCK,CS,Open1,0,,,,2.84268,,,,,,,,,,,,,4.49,20.84,,2.190000057,,,,,31:40.9,,,Large,Cyclicals
+CCET,STOCK,CS,Open1,0,,,,0.25424,,,,,,,,,,,,,2.4,23.89,,3.359999895,,,,,31:43.5,,,Large,Cyclicals
+CCP,STOCK,CS,Open1,0,,,,0.03132,,,,,,,,,,,,,0.39,6.71,,4.760000229,,,,,31:45.7,,,Large,Asset Plays
+CEN,STOCK,CS,Open1,0,,,,-0.02897,,,,,,,,,,,,,0.92,0.0,,0.0,,,,,31:47.9,,,Large,Cyclicals
+CENTEL,STOCK,CS,Open1,0,,,,1.29851,,,,,,,,,,,,,2.13,25.22,,1.799999952,,,,,31:50.1,,,Large,Cyclicals
+CEYE,STOCK,CS,Open1,0,,,,0.07848,,,,,,,,,,,,,0.99,28.54,,3.349999905,,,,,31:52.2,,,Large,Cyclicals
+CFARM,STOCK,CS,Open1,0,,,,0.01954,,,,,,,,,,,,,0.52,33.74,,0.0,,,,,31:54.5,,,Large,Cyclicals
+CFRESH,STOCK,CS,Open1,0,,,,-0.08794,,,,,,,,,,,,,0.44,0.0,,0.0,,,,,31:56.6,,,Large,Asset Plays
+CGD,STOCK,CS,Open1,0,,,,-0.03045,,,,,,,,,,,,,0.54,0.0,,0.0,,,,,31:58.8,,,Large,Asset Plays
+CGH,STOCK,CS,Open1,0,,,,0.0622,,,,,,,,,,,,,0.35,8.69,,0.0,,,,,32:01.0,,,Large,Asset Plays
+CH,STOCK,CS,Open1,0,,,,0.15894,,,,,,,,,,,,,1.17,12.58,,5.0,,,,,32:03.2,,,Large,Cyclicals
+CHAO,STOCK,CS,Open1,0,,,,0.48,,,,,,,,,,,,,1.54,11.92,,3.210000038,,,,,32:05.3,,,Large,Cyclicals
+CHARAN,STOCK,CS,Open1,0,,,,-0.59,,,,,,,,,,,,,0.46,0.0,,0.0,,,,,32:07.5,,,Large,Asset Plays
+CHASE,STOCK,CS,Open1,0,,,,0.043,,,,,,,,,,,,,0.36,14.51,,1.649999976,,,,,32:09.8,,,Large,Cyclicals
+CHAYO,STOCK,CS,Open1,0,,,,0.21206,,,,,,,,,,,,,0.71,10.37,,0.050000001,,,,,32:12.0,,,Large,Cyclicals
+CHEWA,STOCK,CS,Open1,0,,,,-0.28,,,,,,,,,,,,,0.23,0.0,,0.0,,,,,32:14.2,,,Large,Asset Plays
+CHG,STOCK,CS,Open1,0,,,,0.08775,,,,,,,,,,,,,2.68,21.43,,3.720000029,,,,,32:16.4,,,Large,Cyclicals
+CHIC,STOCK,CS,Open1,0,,,,-0.0196,,,,,,,,,,,,,0.58,0.0,,0.0,,,,,32:18.5,,,Large,Asset Plays
+CHO,STOCK,CS,Open1,0,,,,-0.3478,,,,,,,,,,,,,0.51,0.0,,0.0,,,,,32:20.7,,,Large,Asset Plays
+CHOTI,STOCK,CS,Open1,0,,,,-17.42,,,,,,,,,,,,,0.58,0.0,,0.0,,,,,32:22.9,,,Large,Asset Plays
+CHOW,STOCK,CS,Open1,0,,,,0.18484,,,,,,,,,,,,,0.49,7.03,,0.0,,,,,32:25.1,,,Large,Asset Plays
+CI,STOCK,CS,Open1,0,,,,-0.2478,,,,,,,,,,,,,0.39,0.0,,0.0,,,,,32:27.2,,,Large,Asset Plays
+CIG,STOCK,CS,Open1,0,,,,-0.12685,,,,,,,,,,,,,0.33,0.0,,0.0,,,,,32:29.4,,,Large,Asset Plays
+CIMBT,STOCK,CS,Open1,0,,,,0.08191,,,,,,,,,,,,,0.48,8.55,,5.710000038,,,,,32:31.6,,,Large,Asset Plays
+CITY,STOCK,CS,Open1,0,,,,-0.01822,,,,,,,,,,,,,0.39,0.0,,0.0,,,,,32:33.8,,,Large,Asset Plays
+CIVIL,STOCK,CS,Open1,0,,,,0.16412,,,,,,,,,,,,,0.58,9.69,,1.25999999,,,,,32:35.9,,,Large,Asset Plays
+CK,STOCK,CS,Open1,0,,,,0.85376,,,,,,,,,,,,,0.97,17.46,,2.00999999,,,,,32:38.1,,,Large,Cyclicals
+CKP,STOCK,CS,Open1,0,,,,0.165,,,,,,,,,,,,,0.76,15.84,,3.24000001,,,,,32:40.3,,,Large,Cyclicals
+CM,STOCK,CS,Open1,0,,,,0.15,,,,,,,,,,,,,0.47,11.98,,5.920000076,,,,,32:42.5,,,Large,Cyclicals
+CMAN,STOCK,CS,Open1,0,,,,0.26212,,,,,,,,,,,,,0.87,8.7,,5.260000229,,,,,32:44.6,,,Large,Cyclicals
+CMC,STOCK,CS,Open1,0,,,,-0.1937,,,,,,,,,,,,,0.47,0.0,,0.0,,,,,32:46.8,,,Large,Asset Plays
+CMO,STOCK,CS,Open1,0,,,,-0.23463,,,,,,,,,,,,,1.01,0.0,,0.0,,,,,32:49.0,,,Large,Cyclicals
+CMR,STOCK,CS,Open1,0,,,,0.03,,,,,,,,,,,,,1.49,43.05,,3.619999886,,,,,32:51.2,,,Large,Cyclicals
+CNT,STOCK,CS,Open1,0,,,,0.04852,,,,,,,,,,,,,0.58,19.99,,4.119999886,,,,,32:53.4,,,Large,Cyclicals
+COCOCO,STOCK,CS,Open1,0,,,,0.46693,,,,,,,,,,,,,2.78,14.88,,4.320000172,,,,,32:55.6,,,Large,Cyclicals
+COLOR,STOCK,CS,Open1,0,,,,0.06295,,,,,,,,,,,,,0.74,16.84,,4.71999979,,,,,32:57.8,,,Large,Cyclicals
+COM7,STOCK,CS,Open1,200,,20.5,0.1,1.39,,,,20.5,,,,20.5,,20.5,,,5.33,14.1,0.49,4.340000153,,,,,32:59.9,,,Large,Cyclicals
+COMAN,STOCK,CS,Open1,0,,,,-0.3327,,,,,,,,,,,,,0.28,0.0,,0.0,,,,,33:02.1,,,Large,Asset Plays
+CPALL,STOCK,CS,Open1,0,,,,2.77,,,,,,,,,,,,,3.59,17.99,,2.660000086,,,,,33:04.3,,,Large,Cyclicals
+CPANEL,STOCK,CS,Open1,0,,,,-0.02,,,,,,,,,,,,,1.09,0.0,,0.0,,,,,33:06.5,,,Large,Cyclicals
+CPAXT,STOCK,CS,Open1,0,,,,1.61,,,,,,,,,,,,,0.94,26.39,,1.980000019,,,,,33:08.7,,,Large,Cyclicals
+CPF,STOCK,CS,Open1,0,,,,2.39,,,,,,,,,,,,,0.81,10.2,,4.130000114,,,,,33:10.9,,,Large,Cyclicals
+CPH,STOCK,CS,Open1,0,,,,1.01007,,,,,,,,,,,,,0.28,7.67,,9.680000305,,,,,33:13.1,,,Large,Asset Plays
+CPI,STOCK,CS,Open1,0,,,,0.50666,,,,,,,,,,,,,0.65,5.84,,7.429999828,,,,,33:15.4,,,Large,Asset Plays
+CPL,STOCK,CS,Open1,0,,,,-0.18151,,,,,,,,,,,,,0.48,0.0,,0.0,,,,,33:17.5,,,Large,Asset Plays
+CPN,STOCK,CS,Open1,0,,,,3.73,,,,,,,,,,,,,2.26,13.62,,4.139999866,,,,,33:19.7,,,Large,Cyclicals
+CPNCG,STOCK,CS,Open1,0,,,,,,,,,,,,,,,,,0.6,,,13.36999989,,,,,33:21.9,,,Large,Asset Plays
+CPNREIT,STOCK,CS,Open1,0,,,,,,,,,,,,,,,,,0.99,,,5.269999981,,,,,33:24.1,,,Large,Cyclicals
+CPR,STOCK,CS,Open1,0,,,,0.11732,,,,,,,,,,,,,1.02,22.16,,32.0,,,,,33:26.3,,,Large,Cyclicals
+CPT,STOCK,CS,Open1,0,,,,0.0794,,,,,,,,,,,,,0.89,12.21,,2.579999924,,,,,33:28.5,,,Large,Cyclicals
+CPTREIT,STOCK,CS,Open1,0,,,,,,,,,,,,,,,,,0.44,,,1.379999995,,,,,33:30.7,,,Large,Asset Plays
+CPW,STOCK,CS,Open1,0,,,,0.17295,,,,,,,,,,,,,1.44,11.8,,7.840000153,,,,,33:32.9,,,Large,Cyclicals
+CRANE,STOCK,CS,Open1,0,,,,0.00399,,,,,,,,,,,,,0.36,97.83,,0.0,,,,,33:35.1,,,Large,Cyclicals
+CRC,STOCK,CS,Open1,0,,,,1.34908,,,,,,,,,,,,,2.43,20.57,,2.160000086,,,,,33:37.2,,,Large,Cyclicals
+CRD,STOCK,CS,Open1,0,,,,0.03257,,,,,,,,,,,,,0.41,10.74,,0.0,,,,,33:39.4,,,Large,Cyclicals
+CREDIT,STOCK,CS,Open1,0,,,,2.95,,,,,,,,,,,,,1.0,6.37,,3.210000038,,,,,33:41.6,,,Large,Cyclicals
+CSC,STOCK,CS,Open1,0,,,,5.52434,,,,,,,,,,,,,0.58,8.5,,6.380000114,,,,,33:43.8,,,Large,Asset Plays
+CSP,STOCK,CS,Open1,0,,,,-0.21559,,,,,,,,,,,,,0.43,0.0,,0.0,,,,,33:46.0,,,Large,Asset Plays
+CSR,STOCK,CS,Open1,0,,,,3.08077,,,,,,,,,,,,,1.46,28.24,,2.200000048,,,,,33:48.1,,,Large,Cyclicals
+CSS,STOCK,CS,Open1,0,,,,0.06439,,,,,,,,,,,,,0.55,12.74,,4.880000114,,,,,33:50.3,,,Large,Cyclicals
+CTARAF,STOCK,CS,Open1,0,,,,,,,,,,,,,,,,,0.83,,,0.0,,,,,33:52.5,,,Large,Cyclicals
+CTW,STOCK,CS,Open1,0,,,,0.25955,,,,,,,,,,,,,0.29,11.02,,1.75,,,,,33:54.7,,,Large,Cyclicals
+CV,STOCK,CS,Suspend,0,,,,-0.39021,,,,,,,,,,,,,0.18,0.0,,0.0,,,,,33:56.9,,,Large,Asset Plays
+CWT,STOCK,CS,Open1,0,,,,0.0,,,,,,,,,,,,,0.2,424.18,,0.0,,,,,33:59.0,,,Large,Cyclicals
+D,STOCK,CS,Open1,0,,,,0.14748,,,,,,,,,,,,,0.98,15.05,,4.050000191,,,,,34:01.3,,,Large,Cyclicals
+DCC,STOCK,CS,Open1,0,,,,0.1211,,,,,,,,,,,,,1.73,11.02,,5.989999771,,,,,34:03.5,,,Large,Cyclicals
+DCON,STOCK,CS,Open1,0,,,,0.011,,,,,,,,,,,,,0.56,25.49,,0.980000019,,,,,34:05.7,,,Large,Cyclicals
+DDD,STOCK,CS,Open1,0,,,,0.07613,,,,,,,,,,,,,0.46,86.57,,2.349999905,,,,,34:07.9,,,Large,Cyclicals
+DELTA,STOCK,CS,Open1,0,,,,1.52,,,,,,,,,,,,,10.77,45.45,,0.670000017,,,,,34:10.1,,,Large,Cyclicals
+DEMCO,STOCK,CS,Open1,0,,,,-0.08561,,,,,,,,,,,,,0.41,0.0,,0.0,,,,,34:12.3,,,Large,Asset Plays
+DEXON,STOCK,CS,Open1,0,,,,0.11952,,,,,,,,,,,,,0.77,11.96,,4.199999809,,,,,34:14.4,,,Large,Cyclicals
+DHOUSE,STOCK,CS,Open1,0,,,,0.0054,,,,,,,,,,,,,1.13,106.45,,0.0,,,,,34:16.6,,,Large,Cyclicals
+DIF,STOCK,CS,Open1,0,,,,,,,,,,,,,,,,,0.51,,,11.97999954,,,,,34:18.8,,,Large,Asset Plays
+DIMET,STOCK,CS,Open1,0,,,,-0.08,,,,,,,,,,,,,1.78,0.0,,0.0,,,,,34:21.0,,,Large,Cyclicals
+DITTO,STOCK,CS,Open1,0,,,,0.66497,,,,,,,,,,,,,1.95,15.14,,2.5,,,,,34:23.1,,,Large,Cyclicals
+DMT,STOCK,CS,Open1,0,,,,0.75943,,,,,,,,,,,,,1.42,13.43,,8.140000343,,,,,34:25.4,,,Large,Cyclicals
+DOD,STOCK,CS,Open1,0,,,,-0.35375,,,,,,,,,,,,,0.63,0.0,,0.0,,,,,34:27.5,,,Large,Asset Plays
+DOHOME,STOCK,CS,Open1,0,,,,0.21,,,,,,,,,,,,,1.71,32.62,,0.079999998,,,,,34:29.7,,,Large,Cyclicals
+DPAINT,STOCK,CS,Open1,0,,,,-0.71757,,,,,,,,,,,,,0.37,0.0,,0.0,,,,,34:31.9,,,Large,Asset Plays
+DREIT,STOCK,CS,Open1,0,,,,,,,,,,,,,,,,,0.6,,,8.399999619,,,,,34:34.1,,,Large,Asset Plays
+DRT,STOCK,CS,Open1,100,,7.2,-0.05,0.59,,,,7.2,,,,7.2,,7.2,,,2.34,12.16,-0.69,6.940000057,,,,,34:36.3,,,Large,Cyclicals
+DTCENT,STOCK,CS,Open1,0,,,,0.09,,,,,,,,,,,,,0.78,10.55,,6.519999981,,,,,34:38.6,,,Large,Cyclicals
+DTCI,STOCK,CS,Open1,0,,,,-0.31987,,,,,,,,,,,,,0.84,0.0,,0.0,,,,,34:40.7,,,Large,Cyclicals
+DUSIT,STOCK,CS,Open1,0,,,,-0.42,,,,,,,,,,,,,1.04,0.0,,0.0,,,,,34:42.9,,,Large,Cyclicals
+DV8,STOCK,CS,Open1,0,,,,0.0026,,,,,,,,,,,,,0.64,142.53,,0.0,,,,,34:45.0,,,Large,Cyclicals
+EA,STOCK,CS,Open1,0,,,,-1.0,,,,,,,,,,,,,0.48,0.0,,0.0,,,,,34:47.3,,,Large,Asset Plays
+EASON,STOCK,CS,Open1,0,,,,0.1127,,,,,,,,,,,,,0.65,9.23,,5.769999981,,,,,34:49.5,,,Large,Asset Plays
+EASTW,STOCK,CS,Open1,0,,,,0.0262,,,,,,,,,,,,,0.29,72.11,,0.99000001,,,,,34:51.6,,,Mid,Cyclicals
+ECF,STOCK,CS,Open1,0,,,,-0.2411,,,,,,,,,,,,,0.19,0.0,,0.0,,,,,34:53.8,,,Mid,Asset Plays
+EE,STOCK,CS,Open1,0,,,,-0.01901,,,,,,,,,,,,,7.07,0.0,,0.0,,,,,34:58.1,,,Mid,Cyclicals
+EFORL,STOCK,CS,Open1,0,,,,0.00493,,,,,,,,,,,,,1.76,48.73,,0.0,,,,,35:00.3,,,Mid,Cyclicals
+EGATIF,STOCK,CS,Open1,0,,,,,,,,,,,,,,,,,0.74,,,5.829999924,,,,,35:02.6,,,Mid,Asset Plays
+EGCO,STOCK,CS,Open1,0,,,,10.28,,,,,,,,,,,,,0.5,9.58,,6.599999905,,,,,35:04.8,,,Mid,Asset Plays
+EKH,STOCK,CS,Open1,0,,,,0.365,,,,,,,,,,,,,2.02,19.31,,8.239999771,,,,,35:10.0,,,Mid,Cyclicals
+EMC,STOCK,CS,Open1,0,,,,-0.00468,,,,,,,,,,,,,0.67,0.0,,0.0,,,,,35:12.2,,,Mid,Asset Plays
+EP,STOCK,CS,Open1,0,,,,-0.8846,,,,,,,,,,,,,0.42,0.0,,0.0,,,,,35:14.4,,,Mid,Asset Plays
+EPG,STOCK,CS,Open1,0,,,,0.19567,,,,,,,,,,,,,0.73,12.85,,6.829999924,,,,,35:16.6,,,Mid,Cyclicals
+ERW,STOCK,CS,Open1,0,,,,0.2713,,,,,,,,,,,,,1.77,12.06,,2.849999905,,,,,35:18.7,,,Mid,Cyclicals
+ESTAR,STOCK,CS,Open1,0,,,,0.00679,,,,,,,,,,,,,0.18,26.51,,5.559999943,,,,,35:20.9,,,Mid,Cyclicals
+ETC,STOCK,CS,Open1,0,,,,0.04169,,,,,,,,,,,,,0.99,31.66,,0.0,,,,,35:23.1,,,Mid,Cyclicals
+ETE,STOCK,CS,Open1,0,,,,0.0238,,,,,,,,,,,,,0.42,30.25,,0.0,,,,,35:25.3,,,Mid,Cyclicals
+ETL,STOCK,CS,Open1,0,,,,-0.05,,,,,,,,,,,,,0.42,0.0,,0.0,,,,,35:27.4,,,Mid,Asset Plays
+EURO,STOCK,CS,Open1,0,,,,0.42,,,,,,,,,,,,,1.5,10.5,,5.090000153,,,,,35:29.6,,,Mid,Cyclicals
+EVER,STOCK,CS,Open1,0,,,,-0.06977,,,,,,,,,,,,,0.19,0.0,,0.0,,,,,35:31.8,,,Mid,Asset Plays
+F&D,STOCK,CS,Open1,0,,,,4.57,,,,,,,,,,,,,0.49,8.74,,6.25,,,,,35:34.0,,,Mid,Asset Plays
+FANCY,STOCK,CS,Open1,0,,,,0.02241,,,,,,,,,,,,,0.24,14.73,,0.0,,,,,35:36.2,,,Mid,Cyclicals
+FE,STOCK,CS,Open1,0,,,,18.0,,,,,,,,,,,,,0.99,10.5,,6.349999905,,,,,35:38.3,,,Mid,Cyclicals
+FLOYD,STOCK,CS,Open1,0,,,,0.105,,,,,,,,,,,,,0.71,7.62,,10.0,,,,,35:40.5,,,Mid,Asset Plays
+FM,STOCK,CS,Open1,0,,,,0.79811,,,,,,,,,,,,,1.14,5.49,,8.970000267,,,,,35:42.7,,,Mid,Cyclicals
+FMT,STOCK,CS,Open1,0,,,,-0.75827,,,,,,,,,,,,,0.93,0.0,,3.480000019,,,,,35:44.8,,,Mid,Cyclicals
+FN,STOCK,CS,Open1,0,,,,-0.08526,,,,,,,,,,,,,0.53,0.0,,0.0,,,,,35:47.0,,,Mid,Asset Plays
+FNS,STOCK,CS,Open1,0,,,,-6.09,,,,,,,,,,,,,0.3,0.0,,0.0,,,,,35:49.3,,,Mid,Asset Plays
+FORTH,STOCK,CS,Open1,0,,,,0.23659,,,,,,,,,,,,,3.47,30.43,,2.079999924,,,,,35:51.5,,,Mid,Cyclicals
+FPI,STOCK,CS,Open1,0,,,,0.18256,,,,,,,,,,,,,1.02,8.98,,4.880000114,,,,,35:53.7,,,Mid,Cyclicals
+FPT,STOCK,CS,Open1,0,,,,0.14,,,,,,,,,,,,,0.41,10.49,,4.730000019,,,,,35:55.9,,,Mid,Cyclicals
+FSMART,STOCK,CS,Open1,0,,,,0.57154,,,,,,,,,,,,,3.3,9.89,,4.070000172,,,,,35:58.0,,,Mid,Cyclicals
+FSX,STOCK,CS,Open1,0,,,,-0.09,,,,,,,,,,,,,0.36,0.0,,0.0,,,,,36:00.2,,,Mid,Asset Plays
+FTE,STOCK,CS,Open1,0,,,,0.18,,,,,,,,,,,,,1.19,8.97,,10.13000011,,,,,36:02.4,,,Mid,Cyclicals
+FTI,STOCK,CS,Open1,0,,,,0.08128,,,,,,,,,,,,,1.07,20.92,,4.119999886,,,,,36:04.6,,,Mid,Cyclicals
+FTREIT,STOCK,CS,Open1,0,,,,,,,,,,,,,,,,,0.92,,,7.480000019,,,,,36:06.7,,,Mid,Cyclicals
+FUTURERT,STOCK,CS,Open1,0,,,,,,,,,,,,,,,,,0.95,,,2.50999999,,,,,36:09.0,,,Mid,Cyclicals
+FVC,STOCK,CS,Open1,0,,,,0.034,,,,,,,,,,,,,0.37,11.19,,2.599999905,,,,,36:11.2,,,Mid,Cyclicals
+GABLE,STOCK,CS,Open1,0,,,,0.33789,,,,,,,,,,,,,0.99,9.23,,8.659999847,,,,,36:13.4,,,Mid,Cyclicals
+GAHREIT,STOCK,CS,Open1,0,,,,,,,,,,,,,,,,,0.58,,,10.0,,,,,36:15.6,,,Mid,Asset Plays
+GBX,STOCK,CS,Open1,0,,,,-0.05005,,,,,,,,,,,,,0.44,0.0,,5.050000191,,,,,36:17.8,,,Mid,Asset Plays
+GC,STOCK,CS,Open1,0,,,,0.4334,,,,,,,,,,,,,3.44,11.54,,8.0,,,,,36:19.9,,,Mid,Cyclicals
+GCAP,STOCK,CS,Open1,0,,,,-0.027,,,,,,,,,,,,,0.25,0.0,,0.0,,,,,36:22.1,,,Mid,Asset Plays
+GEL,STOCK,CS,Open1,0,,,,-0.05507,,,,,,,,,,,,,0.12,0.0,,0.0,,,,,36:24.3,,,Mid,Asset Plays
+GENCO,STOCK,CS,Open1,0,,,,-0.11216,,,,,,,,,,,,,0.27,0.0,,0.0,,,,,36:26.6,,,Mid,Asset Plays
+GFC,STOCK,CS,Open1,0,,,,0.33412,,,,,,,,,,,,,1.85,14.73,,5.079999924,,,,,36:28.8,,,Mid,Cyclicals
+GFPT,STOCK,CS,Open1,0,,,,1.57424,,,,,,,,,,,,,0.53,5.21,,2.440000057,,,,,36:31.0,,,Mid,Asset Plays
+GGC,STOCK,CS,Open1,0,,,,-0.25881,,,,,,,,,,,,,0.41,0.0,,2.630000114,,,,,36:33.2,,,Mid,Asset Plays
+GJS,STOCK,CS,Open1,0,,,,-0.03997,,,,,,,,,,,,,0.32,0.0,,0.0,,,,,36:35.4,,,Mid,Asset Plays
+GL,STOCK,CS,Suspend,0,,,,-0.81214,,,,,,,,,,,,,,,,,,,,,36:37.5,,,Mid,Cyclicals
+GLAND,STOCK,CS,Open1,0,,,,0.065,,,,,,,,,,,,,0.42,16.06,,2.400000095,,,,,36:39.7,,,Mid,Cyclicals
+GLOBAL,STOCK,CS,Open1,0,,,,0.45695,,,,,,,,,,,,,1.52,15.79,,2.549999952,,,,,36:41.9,,,Mid,Cyclicals
+GLOCON,STOCK,CS,Open1,0,,,,-0.10693,,,,,,,,,,,,,1.11,0.0,,0.0,,,,,36:44.0,,,Mid,Cyclicals
+GLORY,STOCK,CS,Open1,0,,,,-0.25066,,,,,,,,,,,,,1.21,0.0,,0.0,,,,,36:46.2,,,Mid,Cyclicals
+GPI,STOCK,CS,Open1,0,,,,0.18079,,,,,,,,,,,,,1.3,8.96,,10.48999977,,,,,36:48.4,,,Mid,Cyclicals
+GPSC,STOCK,CS,Open1,2000,,29.75,-0.75,1.44,,,,29.75,,,,29.75,,29.75,,,0.79,20.82,-2.46,3.0,,,,,36:50.5,,,Mid,Cyclicals
+GRAMMY,STOCK,CS,Open1,0,,,,0.24,,,,,,,,,,,,,0.93,20.88,,0.0,,,,,36:52.7,,,Mid,Cyclicals
+GRAND,STOCK,CS,Open1,0,,,,-0.072,,,,,,,,,,,,,0.21,0.0,,0.0,,,,,36:54.9,,,Mid,Asset Plays
+GREEN,STOCK,CS,Open1,0,,,,0.008,,,,,,,,,,,,,0.81,101.27,,0.0,,,,,36:57.1,,,Mid,Cyclicals
+GROREIT,STOCK,CS,Open1,0,,,,,,,,,,,,,,,,,0.76,,,6.630000114,,,,,36:59.3,,,Mid,Asset Plays
+GSTEEL,STOCK,CS,Suspend,0,,,,-0.06068,,,,,,,,,,,,,,,,,,,,,37:01.5,,,Mid,Cyclicals
+GTB,STOCK,CS,Open1,0,,,,0.081,,,,,,,,,,,,,0.86,9.26,,6.670000076,,,,,37:03.7,,,Mid,Cyclicals
+GTV,STOCK,CS,Open1,0,,,,-0.01066,,,,,,,,,,,,,0.45,0.0,,0.0,,,,,37:05.9,,,Mid,Asset Plays
+GULF,STOCK,CS,Open1,12200,,60.0,10.75,1.55,,,,60.0,,,,60.0,,60.0,,,4.39,30.03,21.83,2.170000076,,,,,37:08.1,,,Mid,Cyclicals
+GUNKUL,STOCK,CS,Open1,0,,,,0.19,,,,,,,,,,,,,1.02,8.49,,4.880000114,,,,,37:10.2,,,Mid,Cyclicals
+GVREIT,STOCK,CS,Open1,0,,,,,,,,,,,,,,,,,0.6,,,12.18000031,,,,,37:12.4,,,Mid,Asset Plays
+GYT,STOCK,CS,Open1,0,,,,20.90405,,,,,,,,,,,,,0.34,8.32,,4.25,,,,,37:14.6,,,Mid,Asset Plays
+HANA,STOCK,CS,Open1,0,,,,-0.71572,,,,,,,,,,,,,0.56,0.0,,4.409999847,,,,,37:16.7,,,Mid,Asset Plays
+HARN,STOCK,CS,Open1,0,,,,0.14987,,,,,,,,,,,,,0.89,14.01,,5.710000038,,,,,37:18.9,,,Mid,Cyclicals
+HEALTH,STOCK,CS,Open1,0,,,,-1.16836,,,,,,,,,,,,,0.5,0.0,,0.0,,,,,37:21.1,,,Mid,Asset Plays
+HENG,STOCK,CS,Open1,0,,,,0.01916,,,,,,,,,,,,,0.78,55.86,,4.909999847,,,,,37:23.3,,,Mid,Cyclicals
+HFT,STOCK,CS,Open1,0,,,,0.57,,,,,,,,,,,,,0.73,7.09,,6.96999979,,,,,37:25.5,,,Mid,Asset Plays
+HL,STOCK,CS,Open1,0,,,,0.28774,,,,,,,,,,,,,1.93,24.85,,2.380000114,,,,,37:27.6,,,Mid,Cyclicals
+HMPRO,STOCK,CS,Open1,10000,,10.0,1.95,0.49282,,,,10.0,,,,10.0,,10.0,,,3.8,15.67,24.22,5.550000191,,,,,37:29.8,,,Mid,Cyclicals
+HPF,STOCK,CS,Open1,0,,,,,,,,,,,,,,,,,0.51,,,11.27000046,,,,,37:32.0,,,Mid,Asset Plays
+HPT,STOCK,CS,Open1,0,,,,0.0452,,,,,,,,,,,,,0.77,8.63,,5.71999979,,,,,37:34.2,,,Mid,Asset Plays
+HTC,STOCK,CS,Open1,0,,,,1.49708,,,,,,,,,,,,,1.6,10.96,,6.400000095,,,,,37:36.4,,,Mid,Cyclicals
+HTECH,STOCK,CS,Open1,0,,,,0.37875,,,,,,,,,,,,,0.67,7.87,,5.369999886,,,,,37:38.5,,,Mid,Asset Plays
+HUMAN,STOCK,CS,Open1,0,,,,0.4,,,,,,,,,,,,,2.0,21.44,,3.529999971,,,,,37:40.7,,,Mid,Cyclicals
+HYDRO,STOCK,CS,Open1,0,,,,-0.47992,,,,,,,,,,,,,11.01,0.0,,0.0,,,,,37:42.9,,,Mid,Cyclicals
+HYDROGEN,STOCK,CS,Open1,0,,,,,,,,,,,,,,,,,1.03,,,2.460000038,,,,,37:45.1,,,Mid,Cyclicals
+I2,STOCK,CS,Open1,0,,,,0.14081,,,,,,,,,,,,,0.68,7.46,,6.670000076,,,,,37:47.2,,,Mid,Asset Plays
+ICC,STOCK,CS,Open1,0,,,,2.69302,,,,,,,,,,,,,0.41,12.16,,1.919999957,,,,,44:17.8,,,Mid,Cyclicals
+ICHI,STOCK,CS,Open1,0,,,,0.99796,,,,,,,,,,,,,2.82,12.34,,8.869999886,,,,,44:20.3,,,Mid,Cyclicals
+ICN,STOCK,CS,Open1,0,,,,0.22,,,,,,,,,,,,,1.46,8.75,,10.35999966,,,,,44:22.6,,,Mid,Cyclicals
+IFS,STOCK,CS,Open1,0,,,,0.27763,,,,,,,,,,,,,0.63,8.36,,6.380000114,,,,,44:24.8,,,Mid,Asset Plays
+IHL,STOCK,CS,Open1,0,,,,0.09662,,,,,,,,,,,,,0.55,15.83,,5.230000019,,,,,44:28.0,,,Mid,Cyclicals
+IIG,STOCK,CS,Open1,0,,,,-0.45,,,,,,,,,,,,,0.66,0.0,,0.0,,,,,44:30.2,,,Mid,Asset Plays
+III,STOCK,CS,Open1,0,,,,0.5639,,,,,,,,,,,,,0.96,8.5,,6.679999828,,,,,44:32.3,,,Mid,Cyclicals
+ILINK,STOCK,CS,Open1,0,,,,1.041,,,,,,,,,,,,,0.72,5.68,,7.119999886,,,,,44:34.5,,,Mid,Asset Plays
+ILM,STOCK,CS,Open1,0,,,,1.47593,,,,,,,,,,,,,1.16,9.62,,7.039999962,,,,,44:36.7,,,Mid,Cyclicals
+IMH,STOCK,CS,Open1,0,,,,-0.35,,,,,,,,,,,,,1.21,0.0,,0.0,,,,,44:38.9,,,Mid,Cyclicals
+IMPACT,STOCK,CS,Open1,0,,,,,,,,,,,,,,,,,0.89,,,5.449999809,,,,,44:41.1,,,Mid,Cyclicals
+IND,STOCK,CS,Open1,0,,,,0.1654,,,,,,,,,,,,,0.64,5.2,,7.699999809,,,,,44:43.2,,,Mid,Asset Plays
+INET,STOCK,CS,Open1,0,,,,0.75,,,,,,,,,,,,,0.85,7.53,,2.450000048,,,,,44:45.6,,,Mid,Cyclicals
+INETREIT,STOCK,CS,Open1,0,,,,,,,,,,,,,,,,,0.76,,,9.359999657,,,,,44:47.7,,,Mid,Asset Plays
+INGRS,STOCK,CS,Open1,0,,,,0.03276,,,,,,,,,,,,,0.32,63.25,,0.0,,,,,44:49.9,,,Mid,Cyclicals
+INOX,STOCK,CS,Open1,0,,,,0.045,,,,,,,,,,,,,0.35,9.33,,5.480000019,,,,,44:52.1,,,Mid,Asset Plays
+INSET,STOCK,CS,Open1,0,,,,0.1094,,,,,,,,,,,,,1.15,18.46,,3.960000038,,,,,44:54.3,,,Mid,Cyclicals
+INSURE,STOCK,CS,Open1,0,,,,17.3454,,,,,,,,,,,,,0.72,5.78,,10.84000015,,,,,44:56.5,,,Mid,Asset Plays
+INTUCH,STOCK,CS,Open1,0,,,,4.2,,,,,,,,,,,,,5.92,18.15,,11.19999981,,,,,44:58.7,,,Mid,Cyclicals
+IP,STOCK,CS,Open1,0,,,,0.06158,,,,,,,,,,,,,1.16,60.41,,0.0,,,,,45:01.0,,,Mid,Cyclicals
+IRC,STOCK,CS,Open1,0,,,,0.17257,,,,,,,,,,,,,0.53,7.54,,7.550000191,,,,,45:03.2,,,Mid,Asset Plays
+IRCP,STOCK,CS,Open1,0,,,,0.03,,,,,,,,,,,,,0.4,12.41,,0.0,,,,,45:05.3,,,Mid,Cyclicals
+IROYAL,STOCK,CS,Open1,0,,,,0.33,,,,,,,,,,,,,1.55,12.99,,0.0,,,,,45:07.5,,,Mid,Cyclicals
+IRPC,STOCK,CS,Open1,0,,,,-0.25443,,,,,,,,,,,,,0.27,0.0,,1.090000033,,,,,45:09.7,,,Mid,Asset Plays
+ISSARA,STOCK,CS,Open1,0,,,,,,,,,,,,,,,,,0.62,,,0.0,,,,,45:11.9,,,Mid,Asset Plays
+IT,STOCK,CS,Open1,0,,,,0.3998,,,,,,,,,,,,,1.15,9.65,,6.739999771,,,,,45:14.1,,,Mid,Cyclicals
+ITC,STOCK,CS,Open1,0,,,,1.2,,,,,,,,,,,,,2.0,13.43,,7.139999866,,,,,45:16.2,,,Mid,Cyclicals
+ITD,STOCK,CS,Open1,0,,,,-1.0939,,,,,,,,,,,,,1.95,0.0,,0.0,,,,,45:18.5,,,Mid,Cyclicals
+ITEL,STOCK,CS,Open1,0,,,,0.22,,,,,,,,,,,,,0.5,6.67,,0.0,,,,,45:20.7,,,Mid,Asset Plays
+ITNS,STOCK,CS,Open1,0,,,,0.16311,,,,,,,,,,,,,0.67,8.95,,10.47999954,,,,,45:22.9,,,Mid,Asset Plays
+ITTHI,STOCK,CS,Open1,0,,,,0.104,,,,,,,,,,,,,1.25,16.67,,5.78000021,,,,,45:25.2,,,Mid,Cyclicals
+IVF,STOCK,CS,Open1,0,,,,0.06923,,,,,,,,,,,,,0.91,22.84,,2.089999914,,,,,45:27.3,,,Mid,Cyclicals
+IVL,STOCK,CS,Open1,0,,,,-3.64507,,,,,,,,,,,,,0.93,0.0,,3.369999886,,,,,45:29.6,,,Mid,Cyclicals
+J,STOCK,CS,Open1,0,,,,0.1155,,,,,,,,,,,,,0.39,8.82,,0.0,,,,,45:31.8,,,Mid,Asset Plays
+JAK,STOCK,CS,Open1,0,,,,0.05302,,,,,,,,,,,,,0.81,21.88,,2.160000086,,,,,45:34.0,,,Mid,Cyclicals
+JAS,STOCK,CS,Open1,0,,,,0.05832,,,,,,,,,,,,,1.46,27.54,,0.0,,,,,45:36.1,,,Mid,Cyclicals
+JCK,STOCK,CS,Open1,0,,,,0.04564,,,,,,,,,,,,,0.21,3.72,,0.0,,,,,45:38.3,,,Mid,Asset Plays
+JCKH,STOCK,CS,Open1,0,,,,-0.031,,,,,,,,,,,,,0.78,0.0,,0.0,,,,,45:40.6,,,Mid,Asset Plays
+JCT,STOCK,CS,Open1,0,,,,7.31,,,,,,,,,,,,,0.76,10.67,,5.769999981,,,,,45:42.8,,,Mid,Cyclicals
+JDF,STOCK,CS,Open1,0,,,,0.13291,,,,,,,,,,,,,1.58,14.97,,4.019999981,,,,,45:45.0,,,Mid,Cyclicals
+JKN,STOCK,CS,Suspend,0,,,,-2.25123,,,,,,,,,,,,,,,,,,,,,45:47.1,,,Mid,Cyclicals
+JMART,STOCK,CS,Open1,0,,,,0.783,,,,,,,,,,,,,0.74,12.51,,2.460000038,,,,,45:49.4,,,Mid,Cyclicals
+JMT,STOCK,CS,Open1,0,,,,1.11,,,,,,,,,,,,,0.75,12.47,,4.78000021,,,,,45:51.6,,,Mid,Cyclicals
+JPARK,STOCK,CS,Open1,0,,,,0.41,,,,,,,,,,,,,2.82,12.73,,0.949999988,,,,,45:53.8,,,Mid,Cyclicals
+JR,STOCK,CS,Open1,0,,,,0.08717,,,,,,,,,,,,,0.68,17.32,,2.650000095,,,,,45:56.0,,,Mid,Cyclicals
+JSP,STOCK,CS,Open1,0,,,,0.01,,,,,,,,,,,,,0.92,174.11,,1.899999976,,,,,45:58.2,,,Mid,Cyclicals
+JTS,STOCK,CS,Open1,0,,,,0.8407,,,,,,,,,,,,,18.72,35.09,,0.0,,,,,46:00.4,,,Mid,Cyclicals
+JUBILE,STOCK,CS,Open1,0,,,,0.80738,,,,,,,,,,,,,0.86,10.28,,3.980000019,,,,,46:02.6,,,Mid,Cyclicals
+K,STOCK,CS,Open1,0,,,,0.11,,,,,,,,,,,,,1.94,16.17,,4.03000021,,,,,46:04.8,,,Mid,Cyclicals
+KAMART,STOCK,CS,Open1,0,,,,0.52828,,,,,,,,,,,,,3.07,15.52,,4.829999924,,,,,46:07.0,,,Mid,Cyclicals
+KASET,STOCK,CS,Open1,0,,,,-0.21975,,,,,,,,,,,,,0.55,0.0,,0.0,,,,,46:09.3,,,Mid,Asset Plays
+KBANK,STOCK,CS,Open1,5200,,151.09615,0.5,20.2,,,,151.5,,,,151.0,,151.0,,,0.64,7.36,0.33,6.289999962,,,,,46:11.5,,,Mid,Asset Plays
+KBS,STOCK,CS,Open1,0,,,,1.73,,,,,,,,,,,,,0.66,3.05,,13.21000004,,,,,46:13.7,,,Mid,Asset Plays
+KBSPIF,STOCK,CS,Open1,0,,,,,,,,,,,,,,,,,0.71,,,11.5,,,,,46:15.9,,,Mid,Asset Plays
+KC,STOCK,CS,Open1,0,,,,-0.0298,,,,,,,,,,,,,1.01,0.0,,0.0,,,,,46:18.2,,,Mid,Cyclicals
+KCAR,STOCK,CS,Open1,0,,,,0.38,,,,,,,,,,,,,0.42,10.67,,4.630000114,,,,,46:20.4,,,Mid,Cyclicals
+KCC,STOCK,CS,Open1,0,,,,0.13197,,,,,,,,,,,,,0.96,14.23,,1.480000019,,,,,46:22.6,,,Mid,Cyclicals
+KCE,STOCK,CS,Open1,0,,,,1.39456,,,,,,,,,,,,,1.59,13.27,,6.489999771,,,,,46:24.7,,,Mid,Cyclicals
+KCG,STOCK,CS,Open1,0,,,,0.74465,,,,,,,,,,,,,1.45,10.47,,5.260000229,,,,,46:26.9,,,Mid,Cyclicals
+KCM,STOCK,CS,Open1,0,,,,-0.03221,,,,,,,,,,,,,0.33,0.0,,0.0,,,,,46:29.1,,,Mid,Asset Plays
+KDH,STOCK,CS,Open1,0,,,,7.25517,,,,,,,,,,,,,2.22,12.68,,2.720000029,,,,,46:31.3,,,Mid,Cyclicals
+KEX,STOCK,CS,Open1,0,,,,-2.542,,,,,,,,,,,,,1.41,0.0,,0.0,,,,,46:33.5,,,Mid,Cyclicals
+KGEN,STOCK,CS,Open1,0,,,,-0.1317,,,,,,,,,,,,,1.63,0.0,,0.0,,,,,46:35.8,,,Mid,Cyclicals
+KGI,STOCK,CS,Open1,0,,,,0.43,,,,,,,,,,,,,1.07,9.72,,7.349999905,,,,,46:38.0,,,Mid,Cyclicals
+KIAT,STOCK,CS,Open1,0,,,,0.01849,,,,,,,,,,,,,0.77,15.15,,7.139999866,,,,,46:40.1,,,Mid,Cyclicals
+KISS,STOCK,CS,Open1,0,,,,0.27,,,,,,,,,,,,,2.36,15.02,,9.25,,,,,46:42.4,,,Mid,Cyclicals
+KJL,STOCK,CS,Open1,0,,,,0.78179,,,,,,,,,,,,,2.41,9.15,,7.269999981,,,,,46:44.6,,,Mid,Cyclicals
+KK,STOCK,CS,Open1,0,,,,0.0432,,,,,,,,,,,,,1.32,22.22,,2.599999905,,,,,46:46.7,,,Mid,Cyclicals
+KKC,STOCK,CS,Suspend,0,,,,-0.59179,,,,,,,,,,,,,,,,,,,,,46:49.0,,,Mid,Cyclicals
+KKP,STOCK,CS,Open1,200,,55.0,-0.5,5.97,,,,55.0,,,,55.0,,55.0,,,0.74,9.3,-0.9,7.130000114,,,,,46:51.2,,,Mid,Asset Plays
+KLINIQ,STOCK,CS,Open1,0,,,,1.46449,,,,,,,,,,,,,3.97,21.17,,4.519999981,,,,,46:53.4,,,Mid,Cyclicals
+KOOL,STOCK,CS,Open1,0,,,,0.023,,,,,,,,,,,,,0.42,10.82,,5.0,,,,,46:55.6,,,Mid,Cyclicals
+KPNREIT,STOCK,CS,Open1,0,,,,,,,,,,,,,,,,,0.25,,,0.0,,,,,46:57.7,,,Mid,Asset Plays
+KSL,STOCK,CS,Open1,0,,,,0.02713,,,,,,,,,,,,,0.29,11.94,,3.519999981,,,,,46:59.9,,,Mid,Cyclicals
+KTB,STOCK,CS,Open1,1000,,23.6,0.8,3.14,,,,23.6,,,,23.6,,23.6,,,0.72,7.33,3.51,6.71999979,,,,,47:02.2,,,Mid,Asset Plays
+KTBSTMR,STOCK,CS,Open1,0,,,,,,,,,,,,,,,,,0.58,,,11.77000046,,,,,47:04.3,,,Mid,Asset Plays
+KTC,STOCK,CS,Open1,0,,,,2.88,,,,,,,,,,,,,3.01,16.12,,2.839999914,,,,,47:06.5,,,Mid,Cyclicals
+KTIS,STOCK,CS,Open1,0,,,,-0.26266,,,,,,,,,,,,,1.48,0.0,,2.269999981,,,,,47:08.7,,,Mid,Cyclicals
+KTMS,STOCK,CS,Open1,0,,,,0.06387,,,,,,,,,,,,,0.86,22.55,,1.620000005,,,,,47:10.9,,,Mid,Cyclicals
+KUMWEL,STOCK,CS,Open1,0,,,,0.12,,,,,,,,,,,,,0.77,8.55,,5.659999847,,,,,47:13.0,,,Mid,Asset Plays
+KUN,STOCK,CS,Open1,0,,,,0.04,,,,,,,,,,,,,1.09,31.55,,0.839999974,,,,,47:15.2,,,Mid,Cyclicals
+KWC,STOCK,CS,Open1,0,,,,15.65595,,,,,,,,,,,,,2.38,21.01,,3.799999952,,,,,47:17.4,,,Mid,Cyclicals
+KWI,STOCK,CS,Suspend,0,,,,-0.34815,,,,,,,,,,,,,0.54,0.0,,0.0,,,,,47:19.6,,,Mid,Asset Plays
+KWM,STOCK,CS,Open1,0,,,,0.105,,,,,,,,,,,,,0.92,9.42,,7.070000172,,,,,47:21.8,,,Mid,Cyclicals
+KYE,STOCK,CS,Open1,0,,,,34.85742,,,,,,,,,,,,,0.64,7.84,,10.07999992,,,,,47:24.0,,,Mid,Asset Plays
+L&E,STOCK,CS,Open1,0,,,,0.03075,,,,,,,,,,,,,0.53,39.03,,4.170000076,,,,,47:26.2,,,Mid,Cyclicals
+LALIN,STOCK,CS,Open1,0,,,,0.63572,,,,,,,,,,,,,0.53,8.49,,6.300000191,,,,,47:28.3,,,Mid,Asset Plays
+LANNA,STOCK,CS,Open1,0,,,,3.16986,,,,,,,,,,,,,1.05,5.36,,13.52999973,,,,,47:30.5,,,Mid,Cyclicals
+LDC,STOCK,CS,Open1,0,,,,0.00827,,,,,,,,,,,,,0.95,48.36,,0.0,,,,,47:32.7,,,Mid,Cyclicals
+LEE,STOCK,CS,Open1,0,,,,0.16,,,,,,,,,,,,,0.76,14.33,,5.170000076,,,,,47:34.9,,,Mid,Cyclicals
+LEO,STOCK,CS,Open1,0,,,,0.15094,,,,,,,,,,,,,0.84,16.03,,5.789999962,,,,,47:37.1,,,Mid,Cyclicals
+LH,STOCK,CS,Open1,0,,,,0.46,,,,,,,,,,,,,0.99,9.32,,7.480000019,,,,,47:39.3,,,Mid,Cyclicals
+LHFG,STOCK,CS,Open1,0,,,,0.097,,,,,,,,,,,,,0.43,8.07,,3.849999905,,,,,47:41.4,,,Mid,Asset Plays
+LHHOTEL,STOCK,CS,Open1,0,,,,,,,,,,,,,,,,,1.07,,,9.659999847,,,,,47:43.6,,,Mid,Cyclicals
+LHK,STOCK,CS,Open1,0,,,,0.20347,,,,,,,,,,,,,0.93,12.06,,7.670000076,,,,,47:45.8,,,Mid,Cyclicals
+LHRREIT,STOCK,CS,Open1,0,,,,,,,,,,,,,,,,,0.45,,,0.970000029,,,,,47:48.0,,,Mid,Asset Plays
+LHSC,STOCK,CS,Open1,0,,,,,,,,,,,,,,,,,0.97,,,6.769999981,,,,,47:50.2,,,Mid,Cyclicals
+LIT,STOCK,CS,Open1,0,,,,-1.01564,,,,,,,,,,,,,0.41,0.0,,0.0,,,,,47:52.4,,,Mid,Asset Plays
+LOXLEY,STOCK,CS,Open1,0,,,,0.02218,,,,,,,,,,,,,0.44,52.3,,2.589999914,,,,,47:54.5,,,Mid,Cyclicals
+LPH,STOCK,CS,Open1,0,,,,0.11,,,,,,,,,,,,,1.5,36.65,,4.519999981,,,,,47:56.8,,,Mid,Cyclicals
+LPN,STOCK,CS,Open1,0,,,,0.08,,,,,,,,,,,,,0.26,27.63,,4.739999771,,,,,47:58.9,,,Mid,Cyclicals
+LRH,STOCK,CS,Open1,0,,,,7.57651,,,,,,,,,,,,,0.38,4.92,,3.75999999,,,,,48:01.1,,,Mid,Asset Plays
+LST,STOCK,CS,Open1,0,,,,0.63004,,,,,,,,,,,,,0.75,7.52,,4.21999979,,,,,48:03.4,,,Mid,Asset Plays
+LTS,STOCK,CS,Open1,0,,,,0.42905,,,,,,,,,,,,,4.42,18.59,,0.0,,,,,48:05.7,,,Mid,Cyclicals
+LUXF,STOCK,CS,Open1,0,,,,,,,,,,,,,,,,,0.66,,,9.380000114,,,,,48:07.8,,,Mid,Asset Plays
+M,STOCK,CS,Open1,0,,,,1.57378,,,,,,,,,,,,,1.33,12.35,,7.650000095,,,,,48:10.0,,,Mid,Cyclicals
+M-CHAI,STOCK,CS,Open1,0,,,,0.44904,,,,,,,,,,,,,1.52,47.21,,1.179999948,,,,,48:36.4,,,Mid,Cyclicals
+M-PAT,STOCK,CS,Open1,0,,,,,,,,,,,,,,,,,0.57,,,0.0,,,,,49:55.3,,,Mid,Asset Plays
+M-STOR,STOCK,CS,Open1,0,,,,,,,,,,,,,,,,,0.71,,,5.909999847,,,,,50:04.1,,,Mid,Asset Plays
+MAGURO,STOCK,CS,Open1,0,,,,0.82496,,,,,,,,,,,,,3.65,24.64,,1.590000033,,,,,48:12.2,,,Mid,Cyclicals
+MAJOR,STOCK,CS,Open1,0,,,,0.91714,,,,,,,,,,,,,1.63,11.41,,1.789999962,,,,,48:14.4,,,Mid,Cyclicals
+MALEE,STOCK,CS,Open1,0,,,,0.56466,,,,,,,,,,,,,1.37,10.45,,1.690000057,,,,,48:16.6,,,Mid,Cyclicals
+MANRIN,STOCK,CS,Open1,0,,,,1.88887,,,,,,,,,,,,,1.51,13.02,,0.0,,,,,48:18.8,,,Mid,Cyclicals
+MASTER,STOCK,CS,Open1,0,,,,1.73,,,,,,,,,,,,,2.36,15.88,,2.910000086,,,,,48:21.0,,,Mid,Cyclicals
+MATCH,STOCK,CS,Open1,0,,,,0.0159,,,,,,,,,,,,,0.73,75.53,,0.0,,,,,48:23.1,,,Mid,Cyclicals
+MATI,STOCK,CS,Open1,0,,,,-0.18029,,,,,,,,,,,,,0.61,0.0,,2.089999914,,,,,48:25.3,,,Mid,Asset Plays
+MBAX,STOCK,CS,Open1,0,,,,-0.1,,,,,,,,,,,,,0.72,0.0,,0.0,,,,,48:27.5,,,Mid,Asset Plays
+MBK,STOCK,CS,Open1,0,,,,1.75,,,,,,,,,,,,,1.42,12.8,,5.460000038,,,,,48:29.7,,,Mid,Cyclicals
+MC,STOCK,CS,Open1,0,,,,0.55199,,,,,,,,,,,,,2.07,10.84,,8.909999847,,,,,48:31.9,,,Mid,Cyclicals
+MCA,STOCK,CS,Open1,0,,,,0.08684,,,,,,,,,,,,,0.78,12.09,,4.289999962,,,,,48:34.1,,,Mid,Cyclicals
+MCOT,STOCK,CS,Open1,0,,,,-0.46029,,,,,,,,,,,,,0.32,0.0,,0.0,,,,,48:38.5,,,Mid,Asset Plays
+MCS,STOCK,CS,Open1,0,,,,1.42265,,,,,,,,,,,,,0.96,5.1,,9.659999847,,,,,48:40.7,,,Mid,Cyclicals
+MDX,STOCK,CS,Open1,0,,,,0.55977,,,,,,,,,,,,,0.26,5.33,,0.0,,,,,48:42.9,,,Mid,Asset Plays
+MEB,STOCK,CS,Open1,0,,,,1.47,,,,,,,,,,,,,4.55,14.72,,5.090000153,,,,,48:45.1,,,Mid,Cyclicals
+MEDEZE,STOCK,CS,Open1,0,,,,0.39286,,,,,,,,,,,,,2.98,25.7,,1.960000038,,,,,48:47.3,,,Mid,Cyclicals
+MEGA,STOCK,CS,Open1,0,,,,2.30824,,,,,,,,,,,,,2.82,13.86,,5.0,,,,,48:49.5,,,Mid,Cyclicals
+MENA,STOCK,CS,Open1,0,,,,0.09068,,,,,,,,,,,,,0.77,10.92,,3.029999971,,,,,48:51.7,,,Mid,Cyclicals
+META,STOCK,CS,Open1,0,,,,-0.0342,,,,,,,,,,,,,0.13,0.0,,0.0,,,,,48:53.9,,,Mid,Asset Plays
+METCO,STOCK,CS,Open1,0,,,,15.48076,,,,,,,,,,,,,0.54,9.06,,4.690000057,,,,,48:56.1,,,Mid,Asset Plays
+MFC,STOCK,CS,Open1,0,,,,1.81,,,,,,,,,,,,,2.52,13.96,,4.159999847,,,,,48:58.3,,,Mid,Cyclicals
+MFEC,STOCK,CS,Open1,0,,,,0.61671,,,,,,,,,,,,,1.0,9.57,,8.470000267,,,,,49:00.5,,,Mid,Cyclicals
+MGC,STOCK,CS,Open1,0,,,,0.13009,,,,,,,,,,,,,0.94,24.29,,2.849999905,,,,,49:02.7,,,Mid,Cyclicals
+MGI,STOCK,CS,Open1,0,,,,0.58,,,,,,,,,,,,,5.8,21.5,,1.860000014,,,,,49:04.9,,,Mid,Cyclicals
+MGT,STOCK,CS,Open1,0,,,,0.22714,,,,,,,,,,,,,1.07,7.7,,5.710000038,,,,,49:07.1,,,Mid,Cyclicals
+MICRO,STOCK,CS,Open1,0,,,,-0.15231,,,,,,,,,,,,,0.45,0.0,,0.0,,,,,49:09.3,,,Mid,Asset Plays
+MIDA,STOCK,CS,Open1,0,,,,-0.08478,,,,,,,,,,,,,0.18,0.0,,0.0,,,,,49:11.4,,,Mid,Asset Plays
+MII,STOCK,CS,Open1,0,,,,,,,,,,,,,,,,,0.57,,,0.0,,,,,49:13.7,,,Mid,Asset Plays
+MILL,STOCK,CS,Suspend,0,,,,-0.855,,,,,,,,,,,,,0.47,0.0,,0.0,,,,,49:15.9,,,Mid,Asset Plays
+MINT,STOCK,CS,Open1,0,,,,1.06,,,,,,,,,,,,,1.78,20.12,,2.180000067,,,,,49:18.1,,,Mid,Cyclicals
+MIPF,STOCK,CS,Open1,0,,,,,,,,,,,,,,,,,0.93,,,6.090000153,,,,,49:20.3,,,Mid,Cyclicals
+MIT,STOCK,CS,Open1,0,,,,,,,,,,,,,,,,,,,,0.0,,,,,49:22.5,,,Mid,Cyclicals
+MITSIB,STOCK,CS,Open1,0,,,,0.01,,,,,,,,,,,,,0.69,68.72,,2.5,,,,,49:24.7,,,Mid,Cyclicals
+MJD,STOCK,CS,Open1,0,,,,-0.3474,,,,,,,,,,,,,0.14,0.0,,0.0,,,,,49:26.9,,,Mid,Asset Plays
+MJLF,STOCK,CS,Open1,0,,,,,,,,,,,,,,,,,0.38,,,14.68000031,,,,,49:29.1,,,Mid,Asset Plays
+MK,STOCK,CS,Open1,0,,,,-0.75,,,,,,,,,,,,,0.36,0.0,,0.0,,,,,49:31.2,,,Mid,Asset Plays
+ML,STOCK,CS,Open1,0,,,,-0.078,,,,,,,,,,,,,0.19,0.0,,0.0,,,,,49:33.4,,,Mid,Asset Plays
+MNIT,STOCK,CS,Open1,0,,,,,,,,,,,,,,,,,0.39,,,6.5,,,,,49:35.6,,,Mid,Asset Plays
+MNIT2,STOCK,CS,Open1,0,,,,,,,,,,,,,,,,,0.56,,,6.590000153,,,,,49:37.8,,,Mid,Asset Plays
+MNRF,STOCK,CS,Open1,0,,,,,,,,,,,,,,,,,0.3,,,6.260000229,,,,,49:40.0,,,Mid,Asset Plays
+MODERN,STOCK,CS,Open1,0,,,,0.18599,,,,,,,,,,,,,0.69,11.0,,8.180000305,,,,,49:42.2,,,Mid,Cyclicals
+MONO,STOCK,CS,Open1,0,,,,-0.22953,,,,,,,,,,,,,11.19,0.0,,0.0,,,,,49:44.4,,,Mid,Cyclicals
+MOONG,STOCK,CS,Open1,0,,,,0.10415,,,,,,,,,,,,,0.61,17.88,,9.869999886,,,,,49:46.6,,,Small,Cyclicals
+MORE,STOCK,CS,Open1,0,,,,-0.0252,,,,,,,,,,,,,0.14,0.0,,0.0,,,,,49:48.8,,,Small,Asset Plays
+MOSHI,STOCK,CS,Open1,0,,,,1.58,,,,,,,,,,,,,6.01,26.78,,1.889999986,,,,,49:51.0,,,Small,Cyclicals
+MOTHER,STOCK,CS,Open1,0,,,,0.11,,,,,,,,,,,,,1.06,11.44,,0.0,,,,,49:53.2,,,Small,Cyclicals
+MPJ,STOCK,CS,Open1,0,,,,0.64097,,,,,,,,,,,,,0.94,6.48,,9.260000229,,,,,49:57.5,,,Small,Cyclicals
+MSC,STOCK,CS,Open1,0,,,,0.71077,,,,,,,,,,,,,1.21,10.76,,6.539999962,,,,,49:59.7,,,Small,Cyclicals
+MST,STOCK,CS,Open1,0,,,,0.81,,,,,,,,,,,,,0.92,10.13,,7.929999828,,,,,50:01.9,,,Small,Cyclicals
+MTC,STOCK,CS,Open1,0,,,,2.7676,,,,,,,,,,,,,2.52,15.9,,0.569999993,,,,,50:06.3,,,Small,Cyclicals
+MTI,STOCK,CS,Open1,0,,,,12.78576,,,,,,,,,,,,,0.98,8.45,,7.409999847,,,,,50:08.5,,,Small,Cyclicals
+MTW,STOCK,CS,Open1,0,,,,-0.02925,,,,,,,,,,,,,1.09,0.0,,0.0,,,,,50:10.7,,,Small,Cyclicals
+MUD,STOCK,CS,Open1,0,,,,-0.29074,,,,,,,,,,,,,0.76,0.0,,0.0,,,,,50:13.0,,,Small,Asset Plays
+MVP,STOCK,CS,Open1,0,,,,-0.187,,,,,,,,,,,,,1.3,0.0,,0.0,,,,,50:15.2,,,Small,Cyclicals
+NAM,STOCK,CS,Open1,0,,,,0.25838,,,,,,,,,,,,,1.44,16.49,,3.519999981,,,,,50:17.5,,,Small,Cyclicals
+NAT,STOCK,CS,Open1,0,,,,0.53,,,,,,,,,,,,,1.73,7.37,,9.260000229,,,,,50:19.7,,,Small,Cyclicals
+NATION,STOCK,CS,Open1,0,,,,-0.069,,,,,,,,,,,,,6.61,0.0,,0.0,,,,,50:21.9,,,Small,Cyclicals
+NC,STOCK,CS,Open1,0,,,,0.08257,,,,,,,,,,,,,0.72,28.1,,0.430000007,,,,,50:24.1,,,Small,Cyclicals
+NCAP,STOCK,CS,Open1,0,,,,0.18,,,,,,,,,,,,,0.47,9.18,,1.360000014,,,,,50:26.3,,,Small,Asset Plays
+NCH,STOCK,CS,Open1,0,,,,-0.02704,,,,,,,,,,,,,0.27,0.0,,0.0,,,,,50:28.5,,,Small,Asset Plays
+NCL,STOCK,CS,Open1,0,,,,-0.509,,,,,,,,,,,,,1.71,0.0,,0.0,,,,,50:30.8,,,Small,Cyclicals
+NCP,STOCK,CS,Open1,0,,,,0.10246,,,,,,,,,,,,,1.1,12.61,,6.239999771,,,,,50:33.0,,,Small,Cyclicals
+NDR,STOCK,CS,Open1,0,,,,0.02165,,,,,,,,,,,,,0.69,79.8,,2.650000095,,,,,50:35.2,,,Small,Cyclicals
+NEO,STOCK,CS,Open1,0,,,,3.6,,,,,,,,,,,,,1.8,9.0,,4.460000038,,,,,50:37.5,,,Small,Cyclicals
+NEP,STOCK,CS,Open1,0,,,,0.004,,,,,,,,,,,,,0.97,56.94,,0.0,,,,,50:39.7,,,Small,Cyclicals
+NER,STOCK,CS,Open1,0,,,,0.89429,,,,,,,,,,,,,1.05,5.41,,7.440000057,,,,,50:41.9,,,Small,Cyclicals
+NETBAY,STOCK,CS,Open1,0,,,,1.07958,,,,,,,,,,,,,6.43,16.49,,6.630000114,,,,,50:44.2,,,Small,Cyclicals
+NEW,STOCK,CS,Open1,0,,,,4.36714,,,,,,,,,,,,,2.35,27.02,,1.529999971,,,,,50:46.3,,,Small,Cyclicals
+NEWS,STOCK,CS,Open1,0,,,,-0.00173,,,,,,,,,,,,,1.65,0.0,,0.0,,,,,50:48.6,,,Small,Cyclicals
+NEX,STOCK,CS,Open1,0,,,,-1.38,,,,,,,,,,,,,1.15,0.0,,0.0,,,,,50:50.8,,,Small,Cyclicals
+NFC,STOCK,CS,Open1,0,,,,0.03849,,,,,,,,,,,,,0.82,34.03,,0.0,,,,,50:53.0,,,Small,Cyclicals
+NKI,STOCK,CS,Open1,0,,,,-0.37602,,,,,,,,,,,,,0.45,0.0,,0.0,,,,,50:55.2,,,Small,Asset Plays
+NKT,STOCK,CS,Open1,0,,,,0.58,,,,,,,,,,,,,1.24,10.26,,4.019999981,,,,,50:57.3,,,Small,Cyclicals
+NL,STOCK,CS,Open1,0,,,,0.01664,,,,,,,,,,,,,0.56,57.11,,4.349999905,,,,,50:59.5,,,Small,Cyclicals
+NNCL,STOCK,CS,Open1,0,,,,0.19,,,,,,,,,,,,,0.86,8.18,,6.960000038,,,,,51:01.7,,,Small,Cyclicals
+NOBLE,STOCK,CS,Open1,0,,,,0.31514,,,,,,,,,,,,,0.47,6.79,,18.63999939,,,,,51:05.1,,,Small,Asset Plays
+NOVA,STOCK,CS,Open1,0,,,,1.59,,,,,,,,,,,,,0.7,4.16,,0.0,,,,,51:07.4,,,Small,Asset Plays
+NPK,STOCK,CS,Open1,0,,,,-0.91245,,,,,,,,,,,,,0.26,0.0,,0.0,,,,,51:09.6,,,Small,Asset Plays
+NRF,STOCK,CS,Open1,0,,,,0.03916,,,,,,,,,,,,,0.28,13.28,,0.0,,,,,51:11.8,,,Small,Cyclicals
+NSL,STOCK,CS,Open1,0,,,,1.80336,,,,,,,,,,,,,4.53,15.8,,3.160000086,,,,,51:14.0,,,Small,Cyclicals
+NTSC,STOCK,CS,Open1,0,,,,0.93,,,,,,,,,,,,,0.82,8.99,,1.899999976,,,,,51:16.2,,,Small,Cyclicals
+NTV,STOCK,CS,Open1,0,,,,2.25,,,,,,,,,,,,,1.68,12.86,,4.71999979,,,,,51:18.4,,,Small,Cyclicals
+NV,STOCK,CS,Open1,0,,,,-0.1779,,,,,,,,,,,,,0.35,0.0,,0.0,,,,,51:20.7,,,Small,Asset Plays
+NVD,STOCK,CS,Open1,0,,,,0.05554,,,,,,,,,,,,,0.45,28.95,,0.0,,,,,51:22.9,,,Small,Cyclicals
+NWR,STOCK,CS,Suspend,0,,,,-1.54073,,,,,,,,,,,,,0.0,0.0,,0.0,,,,,51:25.1,,,Small,Asset Plays
+NYT,STOCK,CS,Open1,0,,,,0.40178,,,,,,,,,,,,,1.14,8.21,,12.72999954,,,,,51:27.3,,,Small,Cyclicals
+OCC,STOCK,CS,Open1,0,,,,0.3196,,,,,,,,,,,,,0.53,28.47,,0.879999995,,,,,51:29.5,,,Small,Cyclicals
+OGC,STOCK,CS,Open1,0,,,,-4.52,,,,,,,,,,,,,0.11,0.0,,0.0,,,,,51:31.7,,,Small,Asset Plays
+OHTL,STOCK,CS,Open1,0,,,,27.82008,,,,,,,,,,,,,1.9,11.25,,0.0,,,,,51:34.0,,,Small,Cyclicals
+OKJ,STOCK,CS,Open1,0,,,,0.41018,,,,,,,,,,,,,2.96,25.51,,1.889999986,,,,,51:36.2,,,Small,Cyclicals
+ONEE,STOCK,CS,Open1,0,,,,0.17681,,,,,,,,,,,,,0.87,14.48,,6.639999866,,,,,51:38.4,,,Small,Cyclicals
+OR,STOCK,CS,Open1,10000,,10.0,-0.9,0.63753,,,,10.0,,,,10.0,,10.0,,,1.16,16.47,-8.26,3.809999943,,,,,51:40.5,,,Small,Cyclicals
+ORI,STOCK,CS,Open1,0,,,,0.42858,,,,,,,,,,,,,0.32,5.88,,0.829999983,,,,,51:42.7,,,Small,Asset Plays
+ORN,STOCK,CS,Open1,0,,,,0.0937,,,,,,,,,,,,,0.42,7.36,,2.900000095,,,,,51:44.9,,,Small,Asset Plays
+OSP,STOCK,CS,Open1,3000,,20.0,4.3,0.54535,,,,20.0,,,,20.0,,20.0,,,2.95,27.87,27.39,3.950000048,,,,,51:47.2,,,Small,Cyclicals
+PACO,STOCK,CS,Open1,0,,,,0.1475,,,,,,,,,,,,,1.43,9.76,,13.89000034,,,,,51:49.3,,,Small,Cyclicals
+PAF,STOCK,CS,Open1,0,,,,-0.0101,,,,,,,,,,,,,0.64,0.0,,0.0,,,,,51:51.5,,,Small,Asset Plays
+PANEL,STOCK,CS,Open1,0,,,,0.10925,,,,,,,,,,,,,0.8,11.1,,1.710000038,,,,,51:53.7,,,Small,Cyclicals
+PAP,STOCK,CS,Open1,0,,,,-0.30874,,,,,,,,,,,,,0.57,0.0,,0.0,,,,,51:55.9,,,Small,Asset Plays
+PATO,STOCK,CS,Open1,0,,,,0.60369,,,,,,,,,,,,,2.35,13.67,,7.269999981,,,,,51:58.1,,,Small,Cyclicals
+PB,STOCK,CS,Open1,0,,,,3.53463,,,,,,,,,,,,,1.98,15.49,,3.650000095,,,,,52:00.3,,,Small,Cyclicals
+PCC,STOCK,CS,Open1,0,,,,0.29133,,,,,,,,,,,,,0.99,8.99,,8.020000458,,,,,52:02.4,,,Small,Cyclicals
+PCE,STOCK,CS,Open1,0,,,,0.27962,,,,,,,,,,,,,1.71,14.35,,4.599999905,,,,,52:04.6,,,Small,Cyclicals
+PCSGH,STOCK,CS,Open1,0,,,,0.4143,,,,,,,,,,,,,1.03,8.5,,7.099999905,,,,,52:07.0,,,Small,Cyclicals
+PDG,STOCK,CS,Open1,0,,,,0.23765,,,,,,,,,,,,,1.25,10.94,,9.229999542,,,,,52:09.2,,,Small,Cyclicals
+PDJ,STOCK,CS,Open1,0,,,,-0.01601,,,,,,,,,,,,,0.44,0.0,,5.75,,,,,52:11.3,,,Small,Asset Plays
+PEACE,STOCK,CS,Open1,0,,,,0.13407,,,,,,,,,,,,,0.54,17.9,,2.5,,,,,52:13.5,,,Small,Cyclicals
+PEER,STOCK,CS,Open1,0,,,,-0.1651,,,,,,,,,,,,,0.14,0.0,,0.0,,,,,52:15.7,,,Small,Asset Plays
+PERM,STOCK,CS,Open1,0,,,,-0.4053,,,,,,,,,,,,,0.63,0.0,,0.0,,,,,52:17.9,,,Small,Asset Plays
+PF,STOCK,CS,Open1,0,,,,-0.1009,,,,,,,,,,,,,0.1,0.0,,0.0,,,,,52:20.1,,,Small,Asset Plays
+PG,STOCK,CS,Open1,0,,,,0.02039,,,,,,,,,,,,,0.5,362.97,,2.700000048,,,,,52:22.3,,,Small,Cyclicals
+PHG,STOCK,CS,Open1,0,,,,0.84,,,,,,,,,,,,,2.03,16.53,,3.599999905,,,,,52:24.5,,,Small,Cyclicals
+PHOL,STOCK,CS,Open1,0,,,,0.32,,,,,,,,,,,,,1.48,8.94,,7.929999828,,,,,52:26.7,,,Small,Cyclicals
+PICO,STOCK,CS,Open1,0,,,,0.03734,,,,,,,,,,,,,2.26,27.75,,2.279999971,,,,,52:28.9,,,Small,Cyclicals
+PIMO,STOCK,CS,Open1,0,,,,0.14989,,,,,,,,,,,,,0.85,8.25,,6.059999943,,,,,52:31.1,,,Small,Cyclicals
+PIN,STOCK,CS,Open1,0,,,,1.49459,,,,,,,,,,,,,1.51,4.11,,12.35999966,,,,,52:33.2,,,Small,Cyclicals
+PIS,STOCK,CS,Open1,0,,,,0.26,,,,,,,,,,,,,3.87,27.93,,0.0,,,,,52:35.4,,,Small,Cyclicals
+PJW,STOCK,CS,Open1,0,,,,0.205,,,,,,,,,,,,,0.94,10.54,,4.0,,,,,52:37.6,,,Small,Cyclicals
+PK,STOCK,CS,Open1,0,,,,-0.31201,,,,,,,,,,,,,0.18,0.0,,0.0,,,,,52:39.8,,,Small,Asset Plays
+PL,STOCK,CS,Open1,0,,,,-0.17691,,,,,,,,,,,,,0.2,0.0,,0.0,,,,,52:42.0,,,Small,Asset Plays
+PLANB,STOCK,CS,Open1,0,,,,0.2449,,,,,,,,,,,,,2.48,23.41,,2.029999971,,,,,52:44.2,,,Small,Cyclicals
+PLANET,STOCK,CS,Open1,0,,,,-0.09,,,,,,,,,,,,,1.93,0.0,,0.0,,,,,52:46.5,,,Small,Cyclicals
+PLAT,STOCK,CS,Open1,0,,,,0.14606,,,,,,,,,,,,,0.59,11.64,,0.0,,,,,52:48.7,,,Small,Cyclicals
+PLE,STOCK,CS,Open1,0,,,,-0.66768,,,,,,,,,,,,,0.25,0.0,,0.0,,,,,52:50.9,,,Small,Asset Plays
+PLT,STOCK,CS,Open1,0,,,,0.06543,,,,,,,,,,,,,0.66,9.17,,5.0,,,,,52:53.1,,,Small,Asset Plays
+PLUS,STOCK,CS,Open1,0,,,,0.06,,,,,,,,,,,,,2.01,61.75,,1.519999981,,,,,52:55.3,,,Small,Cyclicals
+PM,STOCK,CS,Open1,0,,,,1.07584,,,,,,,,,,,,,3.03,9.11,,10.0,,,,,52:57.5,,,Small,Cyclicals
+PMC,STOCK,CS,Open1,0,,,,0.151,,,,,,,,,,,,,0.57,6.81,,0.349999994,,,,,52:59.7,,,Small,Asset Plays
+PMTA,STOCK,CS,Open1,0,,,,1.49,,,,,,,,,,,,,0.54,6.05,,11.10999966,,,,,53:01.9,,,Small,Asset Plays
+POLY,STOCK,CS,Open1,0,,,,0.47576,,,,,,,,,,,,,2.43,14.71,,6.429999828,,,,,53:04.1,,,Small,Cyclicals
+POPF,STOCK,CS,Open1,0,,,,,,,,,,,,,,,,,0.56,,,14.47999954,,,,,53:06.4,,,Small,Asset Plays
+PORT,STOCK,CS,Open1,0,,,,0.02241,,,,,,,,,,,,,0.44,43.11,,0.0,,,,,53:08.6,,,Small,Cyclicals
+PPM,STOCK,CS,Open1,0,,,,0.2837,,,,,,,,,,,,,0.58,5.71,,3.089999914,,,,,53:10.8,,,Small,Asset Plays
+PPP,STOCK,CS,Open1,0,,,,-0.116,,,,,,,,,,,,,0.45,0.0,,0.0,,,,,53:13.1,,,Small,Asset Plays
+PPPM,STOCK,CS,Open1,0,,,,-0.328,,,,,,,,,,,,,0.71,0.0,,0.0,,,,,53:15.3,,,Small,Asset Plays
+PPS,STOCK,CS,Open1,0,,,,-0.01649,,,,,,,,,,,,,0.52,0.0,,0.0,,,,,53:17.5,,,Small,Asset Plays
+PQS,STOCK,CS,Open1,0,,,,0.36,,,,,,,,,,,,,0.74,6.73,,6.199999809,,,,,53:19.8,,,Small,Asset Plays
+PR9,STOCK,CS,Open1,0,,,,0.90637,,,,,,,,,,,,,3.02,23.06,,1.909999967,,,,,53:22.0,,,Small,Cyclicals
+PRAKIT,STOCK,CS,Open1,0,,,,-1.35411,,,,,,,,,,,,,0.82,0.0,,6.25,,,,,53:24.2,,,Small,Cyclicals
+PRAPAT,STOCK,CS,Open1,0,,,,0.13594,,,,,,,,,,,,,0.82,8.98,,2.589999914,,,,,53:26.4,,,Small,Cyclicals
+PREB,STOCK,CS,Open1,0,,,,0.42991,,,,,,,,,,,,,0.46,8.79,,5.289999962,,,,,53:28.7,,,Small,Asset Plays
+PRECHA,STOCK,CS,Open1,0,,,,-0.14,,,,,,,,,,,,,0.43,0.0,,0.0,,,,,53:30.9,,,Small,Asset Plays
+PRG,STOCK,CS,Open1,0,,,,0.61,,,,,,,,,,,,,0.59,15.02,,4.5,,,,,53:33.0,,,Small,Cyclicals
+PRI,STOCK,CS,Open1,0,,,,0.79953,,,,,,,,,,,,,1.11,6.63,,7.079999924,,,,,53:35.2,,,Small,Cyclicals
+PRIME,STOCK,CS,Open1,0,,,,-0.04468,,,,,,,,,,,,,0.16,0.0,,0.0,,,,,53:37.4,,,Small,Asset Plays
+PRIN,STOCK,CS,Open1,0,,,,0.09074,,,,,,,,,,,,,0.37,18.07,,0.0,,,,,53:39.6,,,Small,Cyclicals
+PRINC,STOCK,CS,Open1,0,,,,0.095,,,,,,,,,,,,,1.06,27.53,,0.389999986,,,,,53:41.9,,,Small,Cyclicals
+PRM,STOCK,CS,Open1,0,,,,0.89641,,,,,,,,,,,,,1.36,7.24,,7.28000021,,,,,53:44.1,,,Small,Cyclicals
+PROEN,STOCK,CS,Open1,0,,,,0.07974,,,,,,,,,,,,,1.16,23.1,,0.0,,,,,53:46.3,,,Small,Cyclicals
+PROS,STOCK,CS,Open1,0,,,,0.033,,,,,,,,,,,,,2.34,27.87,,0.0,,,,,53:48.5,,,Small,Cyclicals
+PROSPECT,STOCK,CS,Open1,0,,,,,,,,,,,,,,,,,0.89,,,9.359999657,,,,,53:50.7,,,Small,Cyclicals
+PROUD,STOCK,CS,Open1,0,,,,0.05813,,,,,,,,,,,,,0.78,21.68,,0.0,,,,,53:52.9,,,Small,Cyclicals
+PRTR,STOCK,CS,Open1,0,,,,0.3789,,,,,,,,,,,,,1.45,10.61,,6.21999979,,,,,53:55.1,,,Small,Cyclicals
+PSG,STOCK,CS,Open1,0,,,,0.02214,,,,,,,,,,,,,2.61,8.13,,0.0,,,,,53:57.3,,,Small,Cyclicals
+PSH,STOCK,CS,Open1,0,,,,0.20841,,,,,,,,,,,,,0.26,23.7,,4.25,,,,,53:59.5,,,Small,Cyclicals
+PSL,STOCK,CS,Open1,0,,,,0.94164,,,,,,,,,,,,,0.58,6.67,,6.369999886,,,,,54:01.7,,,Small,Asset Plays
+PSP,STOCK,CS,Open1,0,,,,0.47976,,,,,,,,,,,,,1.58,8.63,,4.829999924,,,,,54:03.9,,,Small,Cyclicals
+PSTC,STOCK,CS,Open1,0,,,,-0.10549,,,,,,,,,,,,,0.3,0.0,,0.0,,,,,54:06.1,,,Small,Asset Plays
+PT,STOCK,CS,Open1,0,,,,1.29935,,,,,,,,,,,,,3.54,8.39,,9.630000114,,,,,54:09.0,,,Small,Cyclicals
+PTC,STOCK,CS,Open1,0,,,,0.11457,,,,,,,,,,,,,0.48,9.25,,4.429999828,,,,,54:11.1,,,Small,Asset Plays
+PTECH,STOCK,CS,Open1,0,,,,-2.2344,,,,,,,,,,,,,0.43,0.0,,0.0,,,,,54:13.3,,,Small,Asset Plays
+PTG,STOCK,CS,Open1,0,,,,0.61,,,,,,,,,,,,,1.26,11.2,,5.110000134,,,,,54:15.5,,,Small,Cyclicals
+PTL,STOCK,CS,Open1,0,,,,1.45104,,,,,,,,,,,,,0.48,6.29,,2.329999924,,,,,54:17.7,,,Small,Asset Plays
+PTT,STOCK,CS,Open1,2700,,30.64815,4.0,3.15345,,,,32.25,,,,32.0,,30.25,,,0.68,8.64,14.29,7.710000038,,,,,54:19.9,,,Small,Asset Plays
+PTTEP,STOCK,CS,Open1,5100,,121.80392,12.5,19.86,,,,122.0,,,,122.0,,120.0,,,0.8,5.41,11.42,8.949999809,,,,,54:22.1,,,Small,Cyclicals
+PTTGC,STOCK,CS,Open1,500,,20.0,1.8,-6.62,,,,20.0,,,,20.0,,20.0,,,0.31,0.0,9.89,2.789999962,,,,,54:24.3,,,Small,Asset Plays
+PYLON,STOCK,CS,Open1,0,,,,0.00067,,,,,,,,,,,,,1.48,2782.63,,2.150000095,,,,,54:26.5,,,Small,Cyclicals
+Q-CON,STOCK,CS,Open1,0,,,,1.25935,,,,,,,,,,,,,1.33,7.23,,7.139999866,,,,,54:28.7,,,Small,Cyclicals
+QH,STOCK,CS,Open1,0,,,,0.20067,,,,,,,,,,,,,0.56,7.62,,7.190000057,,,,,54:30.8,,,Small,Asset Plays
+QHBREIT,STOCK,CS,Open1,0,,,,,,,,,,,,,,,,,0.42,,,0.0,,,,,54:33.0,,,Small,Asset Plays
+QHHRREIT,STOCK,CS,Open1,0,,,,,,,,,,,,,,,,,0.51,,,5.989999771,,,,,54:35.4,,,Small,Asset Plays
+QHOP,STOCK,CS,Open1,0,,,,,,,,,,,,,,,,,0.62,,,0.0,,,,,54:37.6,,,Small,Asset Plays
+QLT,STOCK,CS,Open1,0,,,,-0.10434,,,,,,,,,,,,,1.04,0.0,,0.0,,,,,54:39.8,,,Small,Cyclicals
+QTC,STOCK,CS,Open1,0,,,,0.33213,,,,,,,,,,,,,0.82,11.68,,6.440000057,,,,,54:42.0,,,Small,Cyclicals
+QTCG,STOCK,CS,Open1,0,,,,-0.72,,,,,,,,,,,,,0.9,0.0,,0.0,,,,,54:44.1,,,Small,Cyclicals
+RABBIT,STOCK,CS,Open1,0,,,,-0.12345,,,,,,,,,,,,,0.35,0.0,,0.0,,,,,54:46.3,,,Small,Asset Plays
+RAM,STOCK,CS,Open1,0,,,,0.61,,,,,,,,,,,,,1.15,29.18,,2.25999999,,,,,54:48.5,,,Small,Cyclicals
+RATCH,STOCK,CS,Open1,0,,,,2.81691,,,,,,,,,,,,,0.6,9.5,,5.980000019,,,,,54:50.8,,,Small,Asset Plays
+RBF,STOCK,CS,Open1,0,,,,0.25638,,,,,,,,,,,,,1.97,19.03,,3.589999914,,,,,54:53.0,,,Small,Cyclicals
+RCL,STOCK,CS,Open1,0,,,,11.066,,,,,,,,,,,,,0.38,2.09,,10.81999969,,,,,54:55.2,,,Small,Asset Plays
+READY,STOCK,CS,Open1,0,,,,0.33827,,,,,,,,,,,,,2.32,13.66,,6.489999771,,,,,54:57.4,,,Small,Cyclicals
+RICHY,STOCK,CS,Open1,0,,,,-0.04171,,,,,,,,,,,,,0.21,0.0,,0.0,,,,,54:59.5,,,Small,Asset Plays
+RJH,STOCK,CS,Open1,0,,,,1.65,,,,,,,,,,,,,2.2,9.09,,4.639999866,,,,,55:01.8,,,Small,Cyclicals
+RML,STOCK,CS,Open1,0,,,,-0.2392,,,,,,,,,,,,,0.31,0.0,,0.0,,,,,55:04.0,,,Small,Asset Plays
+ROCK,STOCK,CS,Open1,0,,,,2.28681,,,,,,,,,,,,,0.52,5.12,,8.550000191,,,,,55:06.2,,,Small,Asset Plays
+ROCTEC,STOCK,CS,Open1,0,,,,0.02935,,,,,,,,,,,,,1.41,19.47,,1.779999971,,,,,55:08.4,,,Small,Cyclicals
+ROH,STOCK,CS,Open1,0,,,,-0.03202,,,,,,,,,,,,,0.61,0.0,,0.0,,,,,55:10.5,,,Small,Asset Plays
+ROJNA,STOCK,CS,Open1,0,,,,1.90814,,,,,,,,,,,,,0.56,2.96,,8.850000381,,,,,55:12.7,,,Small,Asset Plays
+RP,STOCK,CS,Open1,0,,,,-0.21,,,,,,,,,,,,,0.33,0.0,,0.0,,,,,55:14.9,,,Small,Asset Plays
+RPC,STOCK,CS,Open1,0,,,,-0.05513,,,,,,,,,,,,,0.14,0.0,,3.849999905,,,,,55:17.1,,,Small,Asset Plays
+RPH,STOCK,CS,Open1,0,,,,0.32,,,,,,,,,,,,,1.66,16.96,,5.369999886,,,,,55:19.2,,,Small,Cyclicals
+RS,STOCK,CS,Open1,0,,,,-0.1412,,,,,,,,,,,,,0.57,0.0,,0.0,,,,,55:21.4,,,Small,Asset Plays
+RSP,STOCK,CS,Open1,0,,,,0.17993,,,,,,,,,,,,,0.77,10.0,,10.0,,,,,55:23.6,,,Small,Cyclicals
+RT,STOCK,CS,Open1,0,,,,0.05544,,,,,,,,,,,,,0.34,6.23,,0.0,,,,,55:27.9,,,Small,Asset Plays
+RWI,STOCK,CS,Open1,0,,,,0.00488,,,,,,,,,,,,,0.29,65.58,,0.0,,,,,55:30.1,,,Small,Cyclicals
+S,STOCK,CS,Open1,0,,,,0.00956,,,,,,,,,,,,,0.29,72.16,,1.450000048,,,,,55:32.3,,,Small,Cyclicals
+S&J,STOCK,CS,Open1,0,,,,3.17522,,,,,,,,,,,,,1.11,11.5,,4.110000134,,,,,55:34.5,,,Small,Cyclicals
+S11,STOCK,CS,Open1,0,,,,0.19024,,,,,,,,,,,,,0.49,14.2,,3.700000048,,,,,55:36.6,,,Small,Cyclicals
+SA,STOCK,CS,Open1,0,,,,0.29,,,,,,,,,,,,,1.55,22.5,,1.100000024,,,,,55:38.8,,,Small,Cyclicals
+SAAM,STOCK,CS,Open1,0,,,,0.04818,,,,,,,,,,,,,4.58,132.84,,0.469999999,,,,,55:41.0,,,Small,Cyclicals
+SABINA,STOCK,CS,Open1,0,,,,1.33631,,,,,,,,,,,,,3.69,14.59,,6.869999886,,,,,55:43.2,,,Small,Cyclicals
+SABUY,STOCK,CS,Open1,0,,,,-3.4433,,,,,,,,,,,,,0.63,0.0,,0.0,,,,,55:45.4,,,Small,Asset Plays
+SAF,STOCK,CS,Open1,0,,,,-0.00799,,,,,,,,,,,,,0.54,0.0,,0.0,,,,,55:47.6,,,Small,Asset Plays
+SAFE,STOCK,CS,Open1,0,,,,0.55013,,,,,,,,,,,,,1.6,17.01,,6.630000114,,,,,55:51.9,,,Small,Cyclicals
+SAK,STOCK,CS,Open1,0,,,,0.4,,,,,,,,,,,,,1.32,9.97,,4.5,,,,,55:54.1,,,Small,Cyclicals
+SALEE,STOCK,CS,Open1,0,,,,0.0043,,,,,,,,,,,,,0.41,71.67,,3.869999886,,,,,55:56.2,,,Small,Cyclicals
+SAM,STOCK,CS,Suspend,0,,,,-0.13306,,,,,,,,,,,,,0.11,0.0,,0.0,,,,,55:58.4,,,Small,Asset Plays
+SAMART,STOCK,CS,Open1,0,,,,0.13206,,,,,,,,,,,,,1.32,50.73,,0.0,,,,,56:00.6,,,Small,Cyclicals
+SAMCO,STOCK,CS,Open1,0,,,,-0.0791,,,,,,,,,,,,,0.2,0.0,,0.0,,,,,56:02.8,,,Small,Asset Plays
+SAMTEL,STOCK,CS,Open1,0,,,,0.18666,,,,,,,,,,,,,0.97,30.54,,1.929999948,,,,,56:04.9,,,Small,Cyclicals
+SANKO,STOCK,CS,Open1,0,,,,0.21803,,,,,,,,,,,,,1.01,4.59,,5.0,,,,,56:07.1,,,Small,Cyclicals
+SAPPE,STOCK,CS,Open1,0,,,,4.07,,,,,,,,,,,,,2.44,8.55,,6.46999979,,,,,56:09.3,,,Small,Cyclicals
+SAT,STOCK,CS,Open1,0,,,,1.648,,,,,,,,,,,,,0.56,6.67,,13.64000034,,,,,56:11.5,,,Small,Asset Plays
+SAUCE,STOCK,CS,Open1,0,,,,2.06624,,,,,,,,,,,,,4.26,18.03,,4.619999886,,,,,56:13.6,,,Small,Cyclicals
+SAV,STOCK,CS,Open1,0,,,,0.72551,,,,,,,,,,,,,6.84,22.47,,4.909999847,,,,,56:15.8,,,Small,Cyclicals
+SAWAD,STOCK,CS,Open1,0,,,,3.34,,,,,,,,,,,,,1.4,9.19,,0.129999995,,,,,56:18.0,,,Small,Cyclicals
+SAWANG,STOCK,CS,Open1,0,,,,-1.48901,,,,,,,,,,,,,0.86,0.0,,0.0,,,,,56:20.3,,,Small,Cyclicals
+SC,STOCK,CS,Open1,0,,,,0.3988,,,,,,,,,,,,,0.45,6.32,,6.349999905,,,,,56:22.5,,,Small,Asset Plays
+SCAP,STOCK,CS,Open1,0,,,,0.11,,,,,,,,,,,,,0.74,11.07,,0.200000003,,,,,56:24.7,,,Small,Cyclicals
+SCB,STOCK,CS,Open1,0,,,,13.05067,,,,,,,,,,,,,0.86,9.54,,8.390000343,,,,,56:26.9,,,Small,Cyclicals
+SCC,STOCK,CS,Open1,0,,,,5.28,,,,,,,,,,,,,0.53,29.52,,3.210000038,,,,,56:29.1,,,Small,Cyclicals
+SCCC,STOCK,CS,Open1,100,,190.0,24.0,18.08043,,,,190.0,,,,190.0,,190.0,,,1.35,8.71,14.46,6.980000019,,,,,56:31.3,,,Small,Cyclicals
+SCG,STOCK,CS,Open1,0,,,,-0.20755,,,,,,,,,,,,,0.97,0.0,,1.789999962,,,,,56:33.5,,,Small,Cyclicals
+SCGD,STOCK,CS,Open1,0,,,,0.49,,,,,,,,,,,,,0.36,8.39,,4.849999905,,,,,56:35.6,,,Small,Asset Plays
+SCGP,STOCK,CS,Open1,0,,,,0.86167,,,,,,,,,,,,,0.85,17.64,,3.619999886,,,,,56:37.8,,,Small,Cyclicals
+SCI,STOCK,CS,Open1,0,,,,-0.36,,,,,,,,,,,,,1.27,0.0,,0.0,,,,,56:40.0,,,Small,Cyclicals
+SCL,STOCK,CS,Open1,0,,,,0.17824,,,,,,,,,,,,,0.78,6.12,,7.340000153,,,,,56:42.2,,,Small,Asset Plays
+SCM,STOCK,CS,Open1,0,,,,0.00079,,,,,,,,,,,,,0.55,643.15,,9.800000191,,,,,56:44.4,,,Small,Cyclicals
+SCN,STOCK,CS,Open1,0,,,,-0.18,,,,,,,,,,,,,0.19,0.0,,0.0,,,,,56:46.6,,,Small,Asset Plays
+SCP,STOCK,CS,Open1,0,,,,1.08,,,,,,,,,,,,,0.73,5.62,,24.79000092,,,,,56:48.8,,,Small,Asset Plays
+SDC,STOCK,CS,Open1,0,,,,0.00016,,,,,,,,,,,,,4.21,274.09,,0.0,,,,,56:50.9,,,Small,Cyclicals
+SE,STOCK,CS,Open1,0,,,,0.05346,,,,,,,,,,,,,0.72,9.1,,5.519999981,,,,,56:53.2,,,Small,Asset Plays
+SE-ED,STOCK,CS,Open1,0,,,,-0.065,,,,,,,,,,,,,0.63,0.0,,0.0,,,,,57:02.0,,,Small,Asset Plays
+SEAFCO,STOCK,CS,Open1,0,,,,0.002,,,,,,,,,,,,,0.97,1082.06,,1.610000014,,,,,56:55.3,,,Small,Cyclicals
+SEAOIL,STOCK,CS,Open1,0,,,,0.4834,,,,,,,,,,,,,0.71,5.13,,8.869999886,,,,,56:57.6,,,Small,Asset Plays
+SECURE,STOCK,CS,Open1,0,,,,1.13,,,,,,,,,,,,,1.71,10.67,,7.5,,,,,56:59.8,,,Small,Cyclicals
+SEI,STOCK,CS,Open1,0,,,,0.39806,,,,,,,,,,,,,1.89,9.99,,3.819999933,,,,,57:04.2,,,Small,Cyclicals
+SELIC,STOCK,CS,Open1,0,,,,0.20886,,,,,,,,,,,,,1.49,13.69,,1.330000043,,,,,57:06.4,,,Small,Cyclicals
+SENA,STOCK,CS,Open1,0,,,,0.27707,,,,,,,,,,,,,0.37,7.58,,5.300000191,,,,,57:08.6,,,Small,Asset Plays
+SENX,STOCK,CS,Open1,0,,,,0.03641,,,,,,,,,,,,,0.24,6.04,,2.599999905,,,,,57:10.8,,,Small,Asset Plays
+SFLEX,STOCK,CS,Open1,0,,,,0.36,,,,,,,,,,,,,1.93,7.85,,4.679999828,,,,,57:13.0,,,Small,Cyclicals
+SFT,STOCK,CS,Open1,0,,,,0.05,,,,,,,,,,,,,1.2,37.91,,1.639999986,,,,,57:15.2,,,Small,Cyclicals
+SGC,STOCK,CS,Open1,0,,,,0.039,,,,,,,,,,,,,0.85,37.21,,0.0,,,,,57:17.4,,,Small,Cyclicals
+SGF,STOCK,CS,Open1,0,,,,-0.13042,,,,,,,,,,,,,0.14,0.0,,0.0,,,,,57:19.6,,,Small,Asset Plays
+SGP,STOCK,CS,Open1,0,,,,0.71764,,,,,,,,,,,,,0.75,9.48,,5.150000095,,,,,57:21.8,,,Small,Asset Plays
+SHANG,STOCK,CS,Open1,0,,,,2.85351,,,,,,,,,,,,,0.73,14.54,,2.410000086,,,,,57:24.1,,,Small,Cyclicals
+SHR,STOCK,CS,Open1,0,,,,0.03727,,,,,,,,,,,,,0.5,59.03,,1.360000014,,,,,57:26.3,,,Small,Cyclicals
+SIAM,STOCK,CS,Open1,0,,,,-0.167,,,,,,,,,,,,,0.18,0.0,,0.0,,,,,57:28.6,,,Small,Asset Plays
+SICT,STOCK,CS,Open1,0,,,,0.21085,,,,,,,,,,,,,2.15,15.75,,2.529999971,,,,,57:30.8,,,Small,Cyclicals
+SIMAT,STOCK,CS,Open1,0,,,,0.06,,,,,,,,,,,,,0.82,20.86,,0.0,,,,,57:33.1,,,Small,Cyclicals
+SINGER,STOCK,CS,Open1,0,,,,0.02,,,,,,,,,,,,,0.41,391.94,,0.0,,,,,57:35.3,,,Small,Cyclicals
+SINO,STOCK,CS,Open1,0,,,,0.08422,,,,,,,,,,,,,1.09,11.4,,8.010000229,,,,,57:37.6,,,Small,Cyclicals
+SIRI,STOCK,CS,Open1,17400,,1.68994,-0.03,0.28787,,,,1.69,,,,1.68,,1.68,,,0.61,5.6,-1.75,8.840000153,,,,,57:39.8,,,Small,Asset Plays
+SIRIPRT,STOCK,CS,Open1,0,,,,,,,,,,,,,,,,,0.8,,,0.330000013,,,,,57:42.0,,,Small,Cyclicals
+SIS,STOCK,CS,Open1,0,,,,1.99202,,,,,,,,,,,,,2.0,11.75,,4.789999962,,,,,57:44.2,,,Small,Cyclicals
+SISB,STOCK,CS,Open1,0,,,,0.94,,,,,,,,,,,,,5.09,19.43,,2.299999952,,,,,57:46.4,,,Small,Cyclicals
+SITHAI,STOCK,CS,Open1,0,,,,0.10516,,,,,,,,,,,,,0.67,9.99,,5.599999905,,,,,57:48.6,,,Small,Asset Plays
+SJWD,STOCK,CS,Open1,0,,,,0.62,,,,,,,,,,,,,0.56,11.49,,3.940000057,,,,,57:50.8,,,Small,Cyclicals
+SK,STOCK,CS,Open1,0,,,,0.1085,,,,,,,,,,,,,0.66,5.62,,8.199999809,,,,,57:53.0,,,Small,Asset Plays
+SKE,STOCK,CS,Open1,0,,,,-0.035,,,,,,,,,,,,,0.24,0.0,,0.0,,,,,57:55.1,,,Small,Asset Plays
+SKN,STOCK,CS,Open1,0,,,,0.78102,,,,,,,,,,,,,1.05,7.11,,7.210000038,,,,,57:57.3,,,Small,Cyclicals
+SKR,STOCK,CS,Open1,0,,,,0.32,,,,,,,,,,,,,2.14,24.65,,2.519999981,,,,,57:59.5,,,Small,Cyclicals
+SKY,STOCK,CS,Open1,0,,,,0.68,,,,,,,,,,,,,2.63,27.92,,0.0,,,,,58:01.7,,,Small,Cyclicals
+SLP,STOCK,CS,Open1,0,,,,0.051,,,,,,,,,,,,,0.56,7.9,,0.0,,,,,58:03.9,,,Small,Asset Plays
+SM,STOCK,CS,Open1,0,,,,0.04599,,,,,,,,,,,,,0.89,20.22,,3.230000019,,,,,58:06.1,,,Small,Cyclicals
+SMART,STOCK,CS,Open1,0,,,,0.0836,,,,,,,,,,,,,1.01,7.66,,7.579999924,,,,,58:08.3,,,Small,Cyclicals
+SMD100,STOCK,CS,Open1,0,,,,0.19995,,,,,,,,,,,,,1.09,19.93,,18.75,,,,,58:10.5,,,Small,Cyclicals
+SMIT,STOCK,CS,Open1,0,,,,0.27,,,,,,,,,,,,,0.81,14.26,,6.119999886,,,,,58:12.7,,,Small,Cyclicals
+SMPC,STOCK,CS,Open1,0,,,,1.11587,,,,,,,,,,,,,1.59,8.07,,7.440000057,,,,,58:14.9,,,Small,Cyclicals
+SMT,STOCK,CS,Open1,0,,,,-0.1945,,,,,,,,,,,,,0.52,0.0,,3.50999999,,,,,58:17.1,,,Small,Asset Plays
+SNC,STOCK,CS,Open1,0,,,,-0.26022,,,,,,,,,,,,,0.47,0.0,,0.0,,,,,58:19.4,,,Small,Asset Plays
+SNNP,STOCK,CS,Open1,0,,,,0.68,,,,,,,,,,,,,3.43,17.33,,5.0,,,,,58:21.5,,,Small,Cyclicals
+SNP,STOCK,CS,Open1,0,,,,0.83,,,,,,,,,,,,,2.16,13.69,,7.019999981,,,,,58:23.9,,,Micro,Cyclicals
+SNPS,STOCK,CS,Open1,0,,,,0.26,,,,,,,,,,,,,2.92,31.22,,2.079999924,,,,,58:26.1,,,Micro,Cyclicals
+SO,STOCK,CS,Open1,0,,,,0.32,,,,,,,,,,,,,1.82,12.85,,4.519999981,,,,,58:28.3,,,Micro,Cyclicals
+SOLAR,STOCK,CS,Open1,0,,,,-0.0293,,,,,,,,,,,,,0.38,0.0,,0.0,,,,,58:30.5,,,Micro,Asset Plays
+SONIC,STOCK,CS,Open1,0,,,,0.201,,,,,,,,,,,,,0.87,7.82,,3.539999962,,,,,58:32.7,,,Micro,Cyclicals
+SORKON,STOCK,CS,Open1,0,,,,0.41265,,,,,,,,,,,,,1.03,10.52,,5.760000229,,,,,58:34.9,,,Micro,Cyclicals
+SPA,STOCK,CS,Open1,0,,,,0.241,,,,,,,,,,,,,5.14,19.91,,2.079999924,,,,,58:37.1,,,Micro,Cyclicals
+SPACK,STOCK,CS,Open1,0,,,,0.18995,,,,,,,,,,,,,0.62,7.48,,0.0,,,,,58:39.3,,,Micro,Asset Plays
+SPALI,STOCK,CS,Open1,0,,,,3.16916,,,,,,,,,,,,,0.61,5.27,,8.680000305,,,,,58:41.5,,,Micro,Asset Plays
+SPC,STOCK,CS,Open1,0,,,,8.25275,,,,,,,,,,,,,0.7,7.02,,4.150000095,,,,,58:43.7,,,Micro,Asset Plays
+SPCG,STOCK,CS,Open1,0,,,,0.65,,,,,,,,,,,,,0.44,11.99,,15.47999954,,,,,58:49.0,,,Micro,Cyclicals
+SPG,STOCK,CS,Open1,0,,,,0.7152,,,,,,,,,,,,,0.79,17.9,,3.130000114,,,,,58:51.2,,,Micro,Cyclicals
+SPI,STOCK,CS,Open1,0,,,,5.80697,,,,,,,,,,,,,0.74,10.89,,0.629999995,,,,,58:53.4,,,Micro,Cyclicals
+SPRC,STOCK,CS,Open1,0,,,,0.51544,,,,,,,,,,,,,0.57,9.99,,7.769999981,,,,,58:55.6,,,Micro,Asset Plays
+SPREME,STOCK,CS,Open1,0,,,,0.2,,,,,,,,,,,,,1.16,7.93,,7.480000019,,,,,58:57.7,,,Micro,Cyclicals
+SPRIME,STOCK,CS,Open1,0,,,,,,,,,,,,,,,,,0.39,,,12.31999969,,,,,59:00.0,,,Micro,Asset Plays
+SPVI,STOCK,CS,Open1,0,,,,0.11755,,,,,,,,,,,,,1.0,11.74,,5.630000114,,,,,59:02.2,,,Micro,Cyclicals
+SQ,STOCK,CS,Open1,0,,,,-0.04442,,,,,,,,,,,,,0.26,0.0,,0.0,,,,,59:04.3,,,Micro,Asset Plays
+SR,STOCK,CS,Open1,0,,,,-0.04181,,,,,,,,,,,,,0.52,0.0,,0.0,,,,,59:06.6,,,Micro,Asset Plays
+SRICHA,STOCK,CS,Open1,0,,,,-2.02,,,,,,,,,,,,,1.11,0.0,,0.0,,,,,59:08.9,,,Micro,Cyclicals
+SRIPANWA,STOCK,CS,Open1,0,,,,,,,,,,,,,,,,,0.41,,,10.68000031,,,,,59:11.1,,,Micro,Asset Plays
+SRS,STOCK,CS,Open1,0,,,,0.21205,,,,,,,,,,,,,0.76,15.85,,5.769999981,,,,,59:13.3,,,Micro,Cyclicals
+SSF,STOCK,CS,Open1,0,,,,0.51394,,,,,,,,,,,,,0.78,10.99,,5.900000095,,,,,59:15.5,,,Micro,Cyclicals
+SSP,STOCK,CS,Open1,0,,,,0.5816,,,,,,,,,,,,,0.9,9.09,,3.720000029,,,,,59:17.7,,,Micro,Cyclicals
+SSPF,STOCK,CS,Open1,0,,,,,,,,,,,,,,,,,0.33,,,4.46999979,,,,,59:19.9,,,Micro,Asset Plays
+SSSC,STOCK,CS,Open1,0,,,,0.3166,,,,,,,,,,,,,0.4,6.39,,8.090000153,,,,,59:22.1,,,Micro,Asset Plays
+SST,STOCK,CS,Open1,0,,,,-0.57129,,,,,,,,,,,,,0.53,0.0,,0.0,,,,,59:24.3,,,Micro,Asset Plays
+SSTRT,STOCK,CS,Open1,0,,,,,,,,,,,,,,,,,0.59,,,8.369999886,,,,,59:26.5,,,Micro,Asset Plays
+STA,STOCK,CS,Open1,13000,,19.0,3.9,1.08748,,,,19.0,,,,19.0,,19.0,,,0.44,13.52,25.83,6.800000191,,,,,59:28.6,,,Micro,Cyclicals
+STANLY,STOCK,CS,Open1,0,,,,12.33763,,,,,,,,,,,,,0.8,11.53,,9.170000076,,,,,59:30.8,,,Micro,Cyclicals
+STC,STOCK,CS,Open1,0,,,,0.02493,,,,,,,,,,,,,0.75,20.06,,3.5,,,,,59:33.0,,,Micro,Cyclicals
+STECH,STOCK,CS,Open1,0,,,,0.16181,,,,,,,,,,,,,0.5,6.43,,3.269999981,,,,,59:35.3,,,Micro,Asset Plays
+STECON,STOCK,CS,Open1,0,,,,-1.55185,,,,,,,,,,,,,0.48,0.0,,0.0,,,,,59:37.5,,,Micro,Asset Plays
+STELLA,STOCK,CS,Open1,0,,,,-0.15397,,,,,,,,,,,,,0.26,0.0,,0.0,,,,,59:39.6,,,Micro,Asset Plays
+STGT,STOCK,CS,Open1,0,,,,0.34739,,,,,,,,,,,,,0.52,20.15,,7.139999866,,,,,59:41.8,,,Micro,Cyclicals
+STI,STOCK,CS,Open1,0,,,,0.01094,,,,,,,,,,,,,1.89,32.5,,2.210000038,,,,,59:44.0,,,Micro,Cyclicals
+STOWER,STOCK,CS,Open1,0,,,,-0.01867,,,,,,,,,,,,,0.19,0.0,,0.0,,,,,59:46.2,,,Micro,Asset Plays
+STP,STOCK,CS,Open1,0,,,,1.53142,,,,,,,,,,,,,1.34,6.92,,6.130000114,,,,,59:50.2,,,Micro,Cyclicals
+STPI,STOCK,CS,Open1,0,,,,0.0543,,,,,,,,,,,,,0.57,54.19,,0.0,,,,,59:52.5,,,Micro,Cyclicals
+STX,STOCK,CS,Open1,0,,,,0.18,,,,,,,,,,,,,0.46,7.71,,11.92000008,,,,,59:54.7,,,Micro,Asset Plays
+SUC,STOCK,CS,Open1,0,,,,5.31,,,,,,,,,,,,,0.4,6.12,,4.760000229,,,,,59:57.0,,,Micro,Asset Plays
+SUN,STOCK,CS,Open1,0,,,,0.38,,,,,,,,,,,,,1.75,8.27,,7.960000038,,,,,59:59.2,,,Micro,Cyclicals
+SUPER,STOCK,CS,Open1,0,,,,0.04983,,,,,,,,,,,,,0.23,3.41,,0.0,,,,,00:01.4,,,Micro,Asset Plays
+SUPEREIF,STOCK,CS,Open1,0,,,,,,,,,,,,,,,,,0.63,,,9.920000076,,,,,00:03.7,,,Micro,Asset Plays
+SUSCO,STOCK,CS,Open1,0,,,,0.29,,,,,,,,,,,,,0.65,10.13,,6.730000019,,,,,00:05.9,,,Micro,Cyclicals
+SUTHA,STOCK,CS,Open1,0,,,,0.17113,,,,,,,,,,,,,0.93,15.19,,3.079999924,,,,,00:08.2,,,Micro,Cyclicals
+SVI,STOCK,CS,Open1,0,,,,0.64,,,,,,,,,,,,,2.15,11.88,,3.140000105,,,,,00:10.3,,,Micro,Cyclicals
+SVOA,STOCK,CS,Open1,0,,,,0.02669,,,,,,,,,,,,,0.39,38.59,,4.670000076,,,,,00:12.5,,,Micro,Cyclicals
+SVR,STOCK,CS,Open1,0,,,,0.05368,,,,,,,,,,,,,0.4,10.99,,0.0,,,,,00:14.7,,,Micro,Cyclicals
+SVT,STOCK,CS,Open1,0,,,,0.10798,,,,,,,,,,,,,0.73,12.41,,3.359999895,,,,,00:16.8,,,Micro,Cyclicals
+SWC,STOCK,CS,Open1,0,,,,0.24,,,,,,,,,,,,,1.79,11.28,,4.630000114,,,,,00:19.0,,,Micro,Cyclicals
+SYMC,STOCK,CS,Open1,0,,,,0.47411,,,,,,,,,,,,,0.77,11.5,,2.920000076,,,,,00:21.2,,,Micro,Cyclicals
+SYNEX,STOCK,CS,Open1,0,,,,0.74079,,,,,,,,,,,,,2.19,15.52,,3.829999924,,,,,00:23.4,,,Micro,Cyclicals
+SYNTEC,STOCK,CS,Open1,0,,,,0.33,,,,,,,,,,,,,0.46,4.99,,3.609999895,,,,,00:25.6,,,Micro,Asset Plays
+TACC,STOCK,CS,Open1,0,,,,0.41213,,,,,,,,,,,,,3.51,10.29,,9.199999809,,,,,00:27.7,,,Micro,Cyclicals
+TAE,STOCK,CS,Open1,0,,,,0.022,,,,,,,,,,,,,0.35,25.83,,0.0,,,,,00:29.9,,,Micro,Cyclicals
+TAKUNI,STOCK,CS,Open1,0,,,,-0.28187,,,,,,,,,,,,,0.47,0.0,,0.0,,,,,00:32.1,,,Micro,Asset Plays
+TAN,STOCK,CS,Open1,0,,,,0.43358,,,,,,,,,,,,,0.9,11.3,,6.730000019,,,,,00:34.4,,,Micro,Cyclicals
+TAPAC,STOCK,CS,Suspend,0,,,,-0.18616,,,,,,,,,,,,,,,,,,,,,00:36.6,,,Micro,Cyclicals
+TASCO,STOCK,CS,Open1,5000,,15.1,0.2,0.89786,,,,15.1,,,,15.1,,15.1,,,1.44,16.15,1.34,6.210000038,,,,,00:38.8,,,Micro,Cyclicals
+TATG,STOCK,CS,Open1,0,,,,0.21322,,,,,,,,,,,,,0.36,5.66,,7.139999866,,,,,00:41.1,,,Micro,Asset Plays
+TBN,STOCK,CS,Open1,0,,,,0.22,,,,,,,,,,,,,1.19,27.48,,3.140000105,,,,,00:43.3,,,Micro,Cyclicals
+TC,STOCK,CS,Open1,0,,,,0.99828,,,,,,,,,,,,,0.76,6.21,,4.840000153,,,,,00:45.5,,,Micro,Asset Plays
+TCAP,STOCK,CS,Open1,0,,,,6.34,,,,,,,,,,,,,0.69,7.61,,6.840000153,,,,,00:47.7,,,Micro,Asset Plays
+TCC,STOCK,CS,Open1,0,,,,0.011,,,,,,,,,,,,,0.36,24.94,,17.81999969,,,,,00:49.8,,,Micro,Cyclicals
+TCJ,STOCK,CS,Open1,0,,,,0.02,,,,,,,,,,,,,0.23,181.94,,0.0,,,,,00:52.0,,,Micro,Cyclicals
+TCMC,STOCK,CS,Open1,0,,,,-1.1,,,,,,,,,,,,,0.21,0.0,,0.0,,,,,00:54.2,,,Micro,Asset Plays
+TCOAT,STOCK,CS,Open1,0,,,,0.33,,,,,,,,,,,,,0.48,71.06,,2.109999895,,,,,00:56.4,,,Micro,Cyclicals
+TEAM,STOCK,CS,Open1,0,,,,0.35256,,,,,,,,,,,,,1.25,7.54,,8.649999619,,,,,00:58.6,,,Micro,Cyclicals
+TEAMG,STOCK,CS,Open1,0,,,,0.19,,,,,,,,,,,,,1.74,14.93,,4.960000038,,,,,01:00.8,,,Micro,Cyclicals
+TEGH,STOCK,CS,Open1,0,,,,0.51512,,,,,,,,,,,,,0.99,6.48,,6.289999962,,,,,01:03.0,,,Micro,Cyclicals
+TEKA,STOCK,CS,Open1,0,,,,0.38,,,,,,,,,,,,,0.69,5.33,,7.75,,,,,01:05.2,,,Micro,Asset Plays
+TERA,STOCK,CS,Open1,0,,,,0.14,,,,,,,,,,,,,1.05,9.82,,10.32999992,,,,,01:07.4,,,Micro,Cyclicals
+TFFIF,STOCK,CS,Open1,0,,,,,,,,,,,,,,,,,0.48,,,7.210000038,,,,,01:09.5,,,Micro,Asset Plays
+TFG,STOCK,CS,Open1,0,,,,0.54103,,,,,,,,,,,,,1.53,8.02,,6.909999847,,,,,01:11.7,,,Micro,Cyclicals
+TFI,STOCK,CS,Open1,0,,,,-0.02,,,,,,,,,,,,,0.42,0.0,,0.0,,,,,01:13.9,,,Micro,Asset Plays
+TFM,STOCK,CS,Open1,0,,,,1.07,,,,,,,,,,,,,1.68,7.89,,12.65999985,,,,,01:16.1,,,Micro,Cyclicals
+TFMAMA,STOCK,CS,Open1,0,,,,13.59312,,,,,,,,,,,,,1.92,14.79,,2.200000048,,,,,01:18.3,,,Micro,Cyclicals
+TGE,STOCK,CS,Open1,0,,,,0.11429,,,,,,,,,,,,,1.42,14.52,,0.189999998,,,,,01:20.5,,,Micro,Cyclicals
+TGH,STOCK,CS,Open1,0,,,,0.51187,,,,,,,,,,,,,0.96,25.01,,0.0,,,,,01:22.7,,,Micro,Cyclicals
+TGPRO,STOCK,CS,Open1,0,,,,-0.03421,,,,,,,,,,,,,0.16,0.0,,0.0,,,,,01:24.9,,,Micro,Asset Plays
+TH,STOCK,CS,Open1,0,,,,0.14819,,,,,,,,,,,,,0.38,4.12,,0.0,,,,,01:27.0,,,Micro,Asset Plays
+THAI,STOCK,CS,Suspend,0,,,,-6.26,,,,,,,,,,,,,,,,,,,,,01:29.2,,,Micro,Cyclicals
+THANA,STOCK,CS,Open1,0,,,,0.12338,,,,,,,,,,,,,0.51,8.59,,3.869999886,,,,,01:31.5,,,Micro,Asset Plays
+THANI,STOCK,CS,Open1,0,,,,0.12846,,,,,,,,,,,,,0.73,12.22,,4.460000038,,,,,01:33.6,,,Micro,Cyclicals
+THCOM,STOCK,CS,Open1,0,,,,-0.02083,,,,,,,,,,,,,1.17,0.0,,0.0,,,,,01:36.0,,,Micro,Cyclicals
+THE,STOCK,CS,Open1,0,,,,-0.07382,,,,,,,,,,,,,0.4,0.0,,0.0,,,,,01:38.1,,,Micro,Asset Plays
+THG,STOCK,CS,Open1,0,,,,-2.08209,,,,,,,,,,,,,1.11,0.0,,0.0,,,,,01:40.3,,,Micro,Cyclicals
+THIP,STOCK,CS,Open1,0,,,,3.66,,,,,,,,,,,,,0.91,7.66,,5.889999866,,,,,01:42.5,,,Micro,Cyclicals
+THMUI,STOCK,CS,Open1,0,,,,-0.12148,,,,,,,,,,,,,0.39,0.0,,0.0,,,,,01:44.7,,,Micro,Asset Plays
+THRE,STOCK,CS,Open1,0,,,,0.05388,,,,,,,,,,,,,0.5,8.17,,0.0,,,,,01:46.8,,,Micro,Asset Plays
+THREL,STOCK,CS,Open1,0,,,,-0.14,,,,,,,,,,,,,0.66,0.0,,0.0,,,,,01:49.0,,,Micro,Asset Plays
+TIDLOR,STOCK,CS,Open1,0,,,,1.47,,,,,,,,,,,,,1.39,10.05,,3.0,,,,,01:51.2,,,Micro,Cyclicals
+TIF1,STOCK,CS,Open1,0,,,,,,,,,,,,,,,,,0.68,,,7.730000019,,,,,01:53.3,,,Micro,Asset Plays
+TIGER,STOCK,CS,Open1,0,,,,-0.10365,,,,,,,,,,,,,0.38,0.0,,0.0,,,,,01:55.5,,,Micro,Asset Plays
+TIPCO,STOCK,CS,Open1,0,,,,-0.19085,,,,,,,,,,,,,1.24,0.0,,1.879999995,,,,,01:57.7,,,Micro,Cyclicals
+TIPH,STOCK,CS,Open1,0,,,,2.56349,,,,,,,,,,,,,1.31,7.89,,12.86999989,,,,,01:59.9,,,Micro,Cyclicals
+TISCO,STOCK,CS,Open1,0,,,,8.62,,,,,,,,,,,,,1.82,11.34,,7.929999828,,,,,02:02.0,,,Micro,Cyclicals
+TITLE,STOCK,CS,Open1,0,,,,0.12015,,,,,,,,,,,,,2.86,35.66,,1.200000048,,,,,02:04.3,,,Micro,Cyclicals
+TK,STOCK,CS,Open1,0,,,,-0.03178,,,,,,,,,,,,,0.33,0.0,,5.619999886,,,,,02:06.4,,,Micro,Asset Plays
+TKC,STOCK,CS,Open1,0,,,,0.53,,,,,,,,,,,,,0.88,16.73,,2.25,,,,,02:08.6,,,Micro,Cyclicals
+TKN,STOCK,CS,Open1,0,,,,0.60587,,,,,,,,,,,,,4.78,13.47,,6.190000057,,,,,02:10.8,,,Micro,Cyclicals
+TKS,STOCK,CS,Open1,0,,,,-0.10948,,,,,,,,,,,,,0.83,0.0,,8.039999962,,,,,02:12.9,,,Micro,Cyclicals
+TKT,STOCK,CS,Open1,0,,,,-0.00407,,,,,,,,,,,,,0.55,0.0,,0.0,,,,,02:15.1,,,Micro,Asset Plays
+TLHPF,STOCK,CS,Open1,0,,,,,,,,,,,,,,,,,0.3,,,0.0,,,,,02:17.3,,,Micro,Asset Plays
+TLI,STOCK,CS,Open1,36000,,12.0,0.4,1.02027,,,,12.0,,,,12.0,,12.0,,,1.17,11.27,3.45,4.349999905,,,,,02:19.5,,,Micro,Cyclicals
+TM,STOCK,CS,Open1,0,,,,-0.07026,,,,,,,,,,,,,0.46,0.0,,0.0,,,,,02:21.7,,,Micro,Asset Plays
+TMAN,STOCK,CS,Open1,0,,,,1.31,,,,,,,,,,,,,2.62,10.3,,1.720000029,,,,,02:23.8,,,Micro,Cyclicals
+TMC,STOCK,CS,Open1,0,,,,-0.06381,,,,,,,,,,,,,0.54,0.0,,0.0,,,,,02:26.0,,,Micro,Asset Plays
+TMD,STOCK,CS,Open1,0,,,,2.20447,,,,,,,,,,,,,1.15,11.25,,6.650000095,,,,,02:28.2,,,Micro,Cyclicals
+TMI,STOCK,CS,Open1,0,,,,0.011,,,,,,,,,,,,,1.72,54.49,,1.269999981,,,,,02:30.4,,,Micro,Cyclicals
+TMILL,STOCK,CS,Open1,0,,,,0.04815,,,,,,,,,,,,,0.87,47.77,,2.170000076,,,,,02:32.6,,,Micro,Cyclicals
+TMT,STOCK,CS,Open1,0,,,,-0.04772,,,,,,,,,,,,,0.85,0.0,,1.659999967,,,,,02:34.8,,,Micro,Cyclicals
+TMW,STOCK,CS,Open1,0,,,,10.09133,,,,,,,,,,,,,0.65,4.02,,7.409999847,,,,,02:37.0,,,Micro,Asset Plays
+TNDT,STOCK,CS,Open1,0,,,,-0.2489,,,,,,,,,,,,,1.86,0.0,,0.0,,,,,02:39.2,,,Micro,Cyclicals
+TNH,STOCK,CS,Open1,0,,,,0.62282,,,,,,,,,,,,,1.81,13.82,,1.879999995,,,,,02:44.4,,,Micro,Cyclicals
+TNITY,STOCK,CS,Open1,0,,,,0.0024,,,,,,,,,,,,,0.46,1242.35,,0.0,,,,,02:46.6,,,Micro,Cyclicals
+TNL,STOCK,CS,Open1,0,,,,1.31154,,,,,,,,,,,,,0.89,23.64,,1.289999962,,,,,02:48.9,,,Micro,Cyclicals
+TNP,STOCK,CS,Open1,0,,,,0.23192,,,,,,,,,,,,,1.85,11.9,,3.440000057,,,,,02:51.1,,,Micro,Cyclicals
+TNPC,STOCK,CS,Open1,0,,,,-0.39873,,,,,,,,,,,,,0.5,0.0,,2.170000076,,,,,02:53.3,,,Micro,Asset Plays
+TNPF,STOCK,CS,Open1,0,,,,,,,,,,,,,,,,,0.24,,,0.0,,,,,02:55.5,,,Micro,Asset Plays
+TNR,STOCK,CS,Open1,0,,,,1.77678,,,,,,,,,,,,,1.86,4.64,,9.699999809,,,,,03:00.7,,,Micro,Cyclicals
+TOA,STOCK,CS,Open1,0,,,,0.9561,,,,,,,,,,,,,1.62,11.56,,5.369999886,,,,,03:02.9,,,Micro,Cyclicals
+TOG,STOCK,CS,Open1,0,,,,0.86909,,,,,,,,,,,,,1.87,10.59,,4.889999866,,,,,03:05.3,,,Micro,Cyclicals
+TOP,STOCK,CS,Open1,0,,,,4.45808,,,,,,,,,,,,,0.34,5.61,,7.599999905,,,,,03:07.5,,,Micro,Asset Plays
+TOPP,STOCK,CS,Open1,0,,,,18.48309,,,,,,,,,,,,,0.55,8.39,,3.170000076,,,,,03:09.7,,,Micro,Asset Plays
+TPA,STOCK,CS,Open1,0,,,,-0.18527,,,,,,,,,,,,,0.98,0.0,,0.0,,,,,03:11.9,,,Micro,Cyclicals
+TPAC,STOCK,CS,Open1,0,,,,1.26805,,,,,,,,,,,,,0.98,6.7,,4.46999979,,,,,03:14.0,,,Micro,Cyclicals
+TPBI,STOCK,CS,Open1,0,,,,0.59931,,,,,,,,,,,,,0.58,6.54,,7.650000095,,,,,03:16.2,,,Micro,Asset Plays
+TPCH,STOCK,CS,Open1,0,,,,0.58401,,,,,,,,,,,,,0.36,4.97,,13.61999989,,,,,03:18.4,,,Micro,Asset Plays
+TPCS,STOCK,CS,Open1,0,,,,-0.05114,,,,,,,,,,,,,0.53,0.0,,1.940000057,,,,,03:20.6,,,Micro,Asset Plays
+TPIPL,STOCK,CS,Open1,0,,,,0.076,,,,,,,,,,,,,0.34,12.86,,5.099999905,,,,,03:22.8,,,Micro,Cyclicals
+TPIPP,STOCK,CS,Open1,0,,,,0.393,,,,,,,,,,,,,0.56,5.85,,6.960000038,,,,,03:25.0,,,Micro,Asset Plays
+TPL,STOCK,CS,Open1,0,,,,0.006,,,,,,,,,,,,,0.35,95.36,,0.0,,,,,03:27.2,,,Micro,Cyclicals
+TPLAS,STOCK,CS,Open1,0,,,,0.043,,,,,,,,,,,,,0.85,22.89,,4.039999962,,,,,03:29.3,,,Micro,Cyclicals
+TPOLY,STOCK,CS,Open1,0,,,,-0.12981,,,,,,,,,,,,,0.29,0.0,,0.0,,,,,03:31.5,,,Micro,Asset Plays
+TPP,STOCK,CS,Open1,0,,,,0.62954,,,,,,,,,,,,,0.43,17.16,,4.170000076,,,,,03:33.7,,,Micro,Cyclicals
+TPRIME,STOCK,CS,Open1,0,,,,,,,,,,,,,,,,,0.58,,,5.980000019,,,,,03:35.9,,,Micro,Asset Plays
+TPS,STOCK,CS,Open1,0,,,,0.34,,,,,,,,,,,,,2.35,12.02,,5.150000095,,,,,03:38.1,,,Micro,Cyclicals
+TQM,STOCK,CS,Open1,0,,,,1.35145,,,,,,,,,,,,,3.02,10.72,,6.559999943,,,,,03:40.3,,,Micro,Cyclicals
+TQR,STOCK,CS,Open1,0,,,,0.44,,,,,,,,,,,,,2.29,11.69,,7.840000153,,,,,03:42.5,,,Micro,Cyclicals
+TR,STOCK,CS,Open1,0,,,,0.09321,,,,,,,,,,,,,0.27,0.0,,0.140000001,,,,,03:44.6,,,Micro,Asset Plays
+TRC,STOCK,CS,Open1,0,,,,-0.6957,,,,,,,,,,,,,23.43,0.0,,0.0,,,,,03:46.8,,,Micro,Cyclicals
+TRITN,STOCK,CS,Open1,0,,,,-0.0532,,,,,,,,,,,,,1.81,0.0,,0.0,,,,,03:49.0,,,Micro,Cyclicals
+TRP,STOCK,CS,Open1,0,,,,0.39674,,,,,,,,,,,,,1.32,16.32,,3.079999924,,,,,03:51.2,,,Micro,Cyclicals
+TRT,STOCK,CS,Open1,0,,,,0.72521,,,,,,,,,,,,,0.8,4.55,,11.21000004,,,,,03:53.3,,,Micro,Cyclicals
+TRU,STOCK,CS,Open1,0,,,,0.57,,,,,,,,,,,,,0.56,5.76,,9.260000229,,,,,03:55.5,,,Micro,Asset Plays
+TRUBB,STOCK,CS,Open1,0,,,,-0.26896,,,,,,,,,,,,,0.2,0.0,,0.0,,,,,03:57.7,,,Micro,Asset Plays
+TRUE,STOCK,CS,Open1,3000,,10.2,-0.8,-0.31737,,,,10.2,,,,10.2,,10.2,,,4.96,0.0,-7.27,0.0,,,,,03:59.9,,,Micro,Cyclicals
+TRV,STOCK,CS,Open1,0,,,,0.0462,,,,,,,,,,,,,0.78,32.28,,0.0,,,,,04:02.1,,,Micro,Cyclicals
+TSC,STOCK,CS,Open1,0,,,,0.28606,,,,,,,,,,,,,2.01,11.37,,9.600000381,,,,,04:04.2,,,Micro,Cyclicals
+TSE,STOCK,CS,Open1,0,,,,-0.23679,,,,,,,,,,,,,0.26,0.0,,0.0,,,,,04:06.5,,,Micro,Asset Plays
+TSI,STOCK,CS,Open1,0,,,,0.00166,,,,,,,,,,,,,0.62,36.23,,0.0,,,,,04:09.3,,,Micro,Cyclicals
+TSR,STOCK,CS,Open1,0,,,,-1.18335,,,,,,,,,,,,,1.29,0.0,,0.0,,,,,04:11.5,,,Micro,Cyclicals
+TSTE,STOCK,CS,Open1,0,,,,0.26709,,,,,,,,,,,,,1.2,41.18,,0.910000026,,,,,04:13.7,,,Micro,Cyclicals
+TSTH,STOCK,CS,Open1,0,,,,0.0213,,,,,,,,,,,,,0.32,10.88,,0.0,,,,,04:15.9,,,Micro,Cyclicals
+TTA,STOCK,CS,Open1,0,,,,0.73,,,,,,,,,,,,,0.28,6.12,,4.949999809,,,,,04:18.1,,,Micro,Asset Plays
+TTB,STOCK,CS,Open1,0,,,,0.22,,,,,,,,,,,,,0.78,8.82,,5.489999771,,,,,04:20.2,,,Micro,Asset Plays
+TTCL,STOCK,CS,Open1,0,,,,-0.87248,,,,,,,,,,,,,0.3,0.0,,0.0,,,,,04:22.4,,,Micro,Asset Plays
+TTI,STOCK,CS,Open1,0,,,,-1.91749,,,,,,,,,,,,,0.6,0.0,,1.919999957,,,,,04:24.6,,,Micro,Asset Plays
+TTLPF,STOCK,CS,Open1,0,,,,,,,,,,,,,,,,,1.15,,,17.85000038,,,,,04:26.8,,,Micro,Cyclicals
+TTT,STOCK,CS,Open1,0,,,,5.07279,,,,,,,,,,,,,0.41,7.66,,4.110000134,,,,,04:28.9,,,Micro,Asset Plays
+TTW,STOCK,CS,Open1,0,,,,0.69948,,,,,,,,,,,,,2.24,12.58,,6.820000172,,,,,04:31.1,,,Micro,Cyclicals
+TU,STOCK,CS,Open1,0,,,,1.08,,,,,,,,,,,,,0.97,9.5,,5.849999905,,,,,04:33.3,,,Micro,Cyclicals
+TU-PF,STOCK,CS,Open1,0,,,,,,,,,,,,,,,,,0.72,,,0.0,,,,,04:35.5,,,Micro,Asset Plays
+TURTLE,STOCK,CS,Open1,0,,,,-0.12716,,,,,,,,,,,,,2.56,0.0,,0.0,,,,,04:37.8,,,Micro,Cyclicals
+TVDH,STOCK,CS,Open1,0,,,,0.0126,,,,,,,,,,,,,0.42,12.67,,0.0,,,,,04:39.9,,,Micro,Cyclicals
+TVH,STOCK,CS,Open1,0,,,,1.16,,,,,,,,,,,,,1.13,7.22,,5.0,,,,,04:42.1,,,Micro,Cyclicals
+TVO,STOCK,CS,Open1,0,,,,2.36444,,,,,,,,,,,,,1.89,9.81,,7.460000038,,,,,04:44.3,,,Micro,Cyclicals
+TVT,STOCK,CS,Open1,0,,,,-0.0058,,,,,,,,,,,,,0.35,0.0,,0.0,,,,,04:46.5,,,Micro,Asset Plays
+TWP,STOCK,CS,Open1,0,,,,-0.29897,,,,,,,,,,,,,0.19,0.0,,0.649999976,,,,,04:48.7,,,Micro,Asset Plays
+TWPC,STOCK,CS,Open1,0,,,,-0.08111,,,,,,,,,,,,,0.41,0.0,,2.519999981,,,,,04:50.8,,,Micro,Asset Plays
+TWZ,STOCK,CS,Open1,0,,,,-0.00245,,,,,,,,,,,,,0.16,0.0,,0.0,,,,,04:53.0,,,Micro,Asset Plays
+TYCN,STOCK,CS,Open1,0,,,,-0.47,,,,,,,,,,,,,0.28,0.0,,0.0,,,,,04:55.2,,,Micro,Asset Plays
+UAC,STOCK,CS,Open1,0,,,,0.25273,,,,,,,,,,,,,1.2,11.79,,16.78000069,,,,,04:57.4,,,Micro,Cyclicals
+UBA,STOCK,CS,Open1,0,,,,0.1203,,,,,,,,,,,,,0.87,7.81,,10.64000034,,,,,04:59.6,,,Micro,Cyclicals
+UBE,STOCK,CS,Open1,0,,,,0.06468,,,,,,,,,,,,,0.35,8.19,,4.449999809,,,,,05:01.7,,,Micro,Asset Plays
+UBIS,STOCK,CS,Open1,0,,,,0.07718,,,,,,,,,,,,,0.51,14.9,,0.0,,,,,05:03.9,,,Micro,Cyclicals
+UEC,STOCK,CS,Open1,0,,,,-0.05511,,,,,,,,,,,,,0.39,0.0,,7.5,,,,,05:06.1,,,Micro,Asset Plays
+UKEM,STOCK,CS,Open1,0,,,,0.006,,,,,,,,,,,,,0.77,91.71,,1.889999986,,,,,05:08.4,,,Micro,Cyclicals
+UMI,STOCK,CS,Open1,0,,,,0.06186,,,,,,,,,,,,,0.36,10.18,,3.970000029,,,,,05:10.6,,,Micro,Cyclicals
+UMS,STOCK,CS,Open1,0,,,,-0.04604,,,,,,,,,,,,,2.38,0.0,,0.0,,,,,05:12.8,,,Micro,Cyclicals
+UNIQ,STOCK,CS,Open1,0,,,,0.16932,,,,,,,,,,,,,0.23,10.39,,3.980000019,,,,,05:14.9,,,Micro,Cyclicals
+UOBKH,STOCK,CS,Open1,0,,,,-0.25872,,,,,,,,,,,,,0.62,0.0,,0.0,,,,,05:17.1,,,Micro,Asset Plays
+UP,STOCK,CS,Open1,0,,,,2.00386,,,,,,,,,,,,,0.72,8.83,,6.670000076,,,,,05:19.3,,,Micro,Asset Plays
+UPF,STOCK,CS,Open1,0,,,,1.23109,,,,,,,,,,,,,0.64,24.37,,2.869999886,,,,,05:21.5,,,Micro,Cyclicals
+UPOIC,STOCK,CS,Open1,0,,,,0.50247,,,,,,,,,,,,,1.24,12.54,,5.239999771,,,,,05:23.7,,,Micro,Cyclicals
+UREKA,STOCK,CS,Open1,0,,,,0.03504,,,,,,,,,,,,,1.02,23.97,,0.0,,,,,05:25.9,,,Micro,Cyclicals
+UTP,STOCK,CS,Open1,0,,,,0.95337,,,,,,,,,,,,,1.09,8.23,,8.279999733,,,,,05:28.1,,,Micro,Cyclicals
+UV,STOCK,CS,Open1,0,,,,0.04076,,,,,,,,,,,,,0.19,39.44,,8.180000305,,,,,05:30.2,,,Micro,Cyclicals
+UVAN,STOCK,CS,Open1,0,,,,1.34983,,,,,,,,,,,,,1.91,7.22,,10.26000023,,,,,05:32.4,,,Micro,Cyclicals
+VARO,STOCK,CS,Open1,0,,,,1.30559,,,,,,,,,,,,,0.5,3.45,,0.0,,,,,05:34.7,,,Micro,Asset Plays
+VCOM,STOCK,CS,Open1,0,,,,0.28555,,,,,,,,,,,,,1.29,8.4,,12.5,,,,,05:36.9,,,Micro,Cyclicals
+VGI,STOCK,CS,Open1,1008200,,3.54,0.32,0.03704,,,,3.54,,,,3.54,,3.54,,,1.7,122.5,9.94,0.0,,,,,05:39.1,,,Micro,Cyclicals
+VIBHA,STOCK,CS,Open1,0,,,,0.0517,,,,,,,,,,,,,1.91,31.27,,3.089999914,,,,,05:41.3,,,Micro,Cyclicals
+VIH,STOCK,CS,Open1,0,,,,0.53145,,,,,,,,,,,,,1.28,14.33,,3.380000114,,,,,05:43.5,,,Micro,Cyclicals
+VL,STOCK,CS,Open1,0,,,,0.064,,,,,,,,,,,,,1.02,14.24,,4.440000057,,,,,05:45.6,,,Micro,Cyclicals
+VNG,STOCK,CS,Open1,400,,3.0,0.38,0.13,,,,3.0,,,,3.0,,3.0,,,0.61,19.45,14.5,3.880000114,,,,,05:47.8,,,Micro,Cyclicals
+VPO,STOCK,CS,Open1,0,,,,0.05,,,,,,,,,,,,,0.85,9.39,,0.0,,,,,05:50.0,,,Micro,Cyclicals
+VRANDA,STOCK,CS,Open1,0,,,,0.16012,,,,,,,,,,,,,0.82,29.6,,2.640000105,,,,,05:52.2,,,Micro,Cyclicals
+VS,STOCK,CS,Open1,0,,,,-0.16215,,,,,,,,,,,,,1.54,0.0,,0.0,,,,,05:54.3,,,Micro,Cyclicals
+WACOAL,STOCK,CS,Open1,0,,,,0.20233,,,,,,,,,,,,,0.54,119.11,,2.49000001,,,,,05:56.5,,,Micro,Cyclicals
+WARRIX,STOCK,CS,Open1,0,,,,0.25,,,,,,,,,,,,,1.47,14.48,,6.03000021,,,,,05:58.7,,,Micro,Cyclicals
+WAVE,STOCK,CS,Suspend,0,,,,0.00236,,,,,,,,,,,,,0.62,37.51,,0.0,,,,,06:00.9,,,Micro,Cyclicals
+WELL,STOCK,CS,Suspend,0,,,,0.01381,,,,,,,,,,,,,,,,,,,,,06:03.1,,,Micro,Cyclicals
+WFX,STOCK,CS,Open1,0,,,,-0.28088,,,,,,,,,,,,,0.25,0.0,,0.0,,,,,06:05.3,,,Micro,Asset Plays
+WGE,STOCK,CS,Open1,0,,,,0.0852,,,,,,,,,,,,,1.27,8.69,,0.0,,,,,06:07.5,,,Micro,Cyclicals
+WHA,STOCK,CS,Open1,0,,,,0.2917,,,,,,,,,,,,,1.49,11.93,,5.480000019,,,,,06:09.8,,,Micro,Cyclicals
+WHABT,STOCK,CS,Open1,0,,,,,,,,,,,,,,,,,0.62,,,9.600000381,,,,,06:12.0,,,Micro,Asset Plays
+WHAIR,STOCK,CS,Open1,0,,,,,,,,,,,,,,,,,0.66,,,9.170000076,,,,,06:14.1,,,Micro,Asset Plays
+WHART,STOCK,CS,Open1,0,,,,,,,,,,,,,,,,,0.93,,,7.170000076,,,,,06:16.3,,,Micro,Cyclicals
+WHAUP,STOCK,CS,Open1,0,,,,0.29251,,,,,,,,,,,,,1.01,12.24,,7.050000191,,,,,06:18.5,,,Micro,Cyclicals
+WICE,STOCK,CS,Open1,0,,,,0.15247,,,,,,,,,,,,,1.3,17.97,,5.110000134,,,,,06:20.7,,,Micro,Cyclicals
+WIIK,STOCK,CS,Open1,0,,,,0.05182,,,,,,,,,,,,,0.34,16.4,,4.710000038,,,,,06:22.8,,,Micro,Cyclicals
+WIN,STOCK,CS,Open1,0,,,,0.00352,,,,,,,,,,,,,0.51,96.51,,0.0,,,,,06:25.0,,,Micro,Cyclicals
+WINDOW,STOCK,CS,Open1,0,,,,0.06,,,,,,,,,,,,,0.7,11.93,,4.230000019,,,,,06:27.2,,,Micro,Cyclicals
+WINMED,STOCK,CS,Open1,0,,,,0.07315,,,,,,,,,,,,,0.81,17.5,,1.929999948,,,,,06:29.4,,,Micro,Cyclicals
+WINNER,STOCK,CS,Open1,0,,,,0.1503,,,,,,,,,,,,,1.9,13.11,,7.610000134,,,,,06:31.6,,,Micro,Cyclicals
+WORK,STOCK,CS,Open1,0,,,,-0.45524,,,,,,,,,,,,,0.56,0.0,,0.0,,,,,06:33.9,,,Micro,Asset Plays
+WP,STOCK,CS,Open1,0,,,,0.28,,,,,,,,,,,,,1.26,11.51,,8.640000343,,,,,06:36.1,,,Micro,Cyclicals
+WPH,STOCK,CS,Open1,0,,,,0.42,,,,,,,,,,,,,3.68,20.84,,0.029999999,,,,,06:38.2,,,Micro,Cyclicals
+XBIO,STOCK,CS,Open1,0,,,,-0.20339,,,,,,,,,,,,,0.67,0.0,,0.0,,,,,06:40.4,,,Micro,Asset Plays
+XO,STOCK,CS,Open1,0,,,,1.85,,,,,,,,,,,,,4.21,8.83,,12.81000042,,,,,06:42.6,,,Micro,Cyclicals
+XPG,STOCK,CS,Open1,0,,,,0.01553,,,,,,,,,,,,,0.73,53.89,,0.0,,,,,06:44.8,,,Micro,Cyclicals
+YGG,STOCK,CS,Open1,0,,,,-0.91011,,,,,,,,,,,,,4.8,0.0,,0.0,,,,,06:46.9,,,Micro,Cyclicals
+YONG,STOCK,CS,Open1,0,,,,0.08907,,,,,,,,,,,,,0.7,10.44,,6.449999809,,,,,06:49.1,,,Micro,Cyclicals
+YUASA,STOCK,CS,Open1,0,,,,1.60202,,,,,,,,,,,,,0.92,6.49,,5.849999905,,,,,06:51.3,,,Micro,Cyclicals
+ZAA,STOCK,CS,Open1,0,,,,-0.0915,,,,,,,,,,,,,3.1,0.0,,0.0,,,,,06:54.1,,,Micro,Cyclicals
+ZEN,STOCK,CS,Open1,0,,,,0.18957,,,,,,,,,,,,,1.39,33.03,,2.700000048,,,,,06:56.3,,,Micro,Cyclicals
+ZIGA,STOCK,CS,Open1,0,,,,0.03526,,,,,,,,,,,,,0.92,28.64,,0.0,,,,,06:58.5,,,Micro,Cyclicals
